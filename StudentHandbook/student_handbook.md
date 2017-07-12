@@ -30,108 +30,99 @@ will invite appropriate consequences.
 \newpage
 # Academic Calendar {#academic_calendar}
 
+\small 
+
 It is the student’s responsibility to ensure they meet all requirements
-and deadlines.
+and deadlines. Each academic year abbreviated Y1, Y2, etc. is from Aug to July.
 
-<!--
-**PhD Calendar** \newline ![PhD Calendar](./calendar_phd.pdf){width=90%} 
-
-**IntPhd Calendar** \newline ![IntPhD Calendar](./calendar_intphd.pdf){width=90%}
-
-**MSc Calendar** \newline ![MSc Calendar](./calendar_msc.pdf){width=90%}
--->
-
-## PhD Calendar 
+## PhD Calendar {#phd_calendar}
    
   **Timeline**        | **Event**                | Notes 
  ---------------------|--------------------------|-------------------------------
   Y1 Aug              | Orientation              | Visit to labs and facilities
-  Y1 Sep - Dec        | Rotations                | 2 rotations.
+  Y1 (Sep-Dec)        | Rotations                | 2 rotations [^1] 
   **Y1 Dec**          | Lab assignments          |
-  Y1 Mar - Jun        | TCM and renewel          | Thesis committee meeting
+  Y1 (Mar-Jun)        | TCM and renewel          | Thesis committee meeting
   Y1 Jun              | CE-I   (First attempt) | 
   Y2 Dec              | CE-I   (Retry)         | IntPhd first attempt
-  **Y2 Jan - Jun**    | **CE-II and registration** |
-  Y3,Y4 Mar - Jun     | TCM and renewel          |
-  **Y5 Aug - Dec**    | Thesis approval or extension request |
-  Y5 Jan - Jul        | Synposis and thesis submission | 
-  *Y6 Aug - Dec*      | Thesis approval or extension request | Students on extension
-  *Y6 Jan - Jul*      | Synposis and thesis submission | Students on extension 
+  **Y2 (Jan-Jun)**    | **CE-II and registration** |
+  Y3,Y4 (Mar-Jun)     | TCM and renewel          |
+  **Y5 (Aug-Dec)**    | **Thesis approval or extension request** |
+  **Y5 (Jan-Jul)**    | **Synposis and thesis submission** | 
+  *Y6 (Aug-Dec)*      | Thesis approval or extension request | Students on extension
+  *Y6 (Jan-Jul)*      | Synposis and thesis submission | Students on extension 
 
-## IntPhD Calendar 
+## IntPhD Calendar {#intphd_calendar}
    
   **Timeline**        | **Event**                | Notes 
  ---------------------|--------------------------|-------------------------------
   Y1 Aug              | Orientation              | Visit to labs and facilities
-  Y1 Sep - Feb        | Rotations                | 3 rotations.
+  Y1 (Sep-Feb)        | Rotations                | 3 rotations.
   **Y1 Feb**          | Lab assignments          |
   Y2 Dec              | CE-I (First attempt)     | Phd (Retry)
   Y2 Jun              | CE-I (Retry)             |
   **Y3 Dec**          | **CE-II and registration** |
-  Y3,Y4,Y5 Mar - Jun  | TCM and renewel          |
-  **Y6 Aug - Dec**    | **Thesis approval or extension request** |
-  Y6 Jan - Jul        | Synposis and thesis submission | 
-  *Y7 Aug - Dec*      | Thesis approval or extension request | Students on extension
-  *Y7 Jan - Jul*      | Synposis and thesis submission | Students on extension 
+  Y3,Y4,Y5 (Mar-Jun)  | TCM and renewel          |
+  **Y6 (Aug-Dec)**    | **Thesis approval or extension request** |
+  Y6 (Jan-Jul)        | Synposis and thesis submission | 
+  *Y7 (Aug-Dec)*      | Thesis approval or extension request | Students on extension
+  *Y7 (Jan-Jul)*      | Synposis and thesis submission | Students on extension 
 
+## MSc Calendar {#msc_calendar}
 
+  **Timeline**        | **Event**                | Notes 
+ ---------------------|--------------------------|-------------------------------
+  Y1 Aug              | Orientation              | Visit to labs and facilities
+  Y1 (Jan-Jun)        | TCM and renewel          |
+  Y2 (Aug-Sep), Y2 (Jan-Jun)       | TCM and renewel          |
+  **Y7 Aug - Dec**    | **Thesis approval**      |
+  **Y7 Jan - Jul**    | **Thesis submission**    |
 
+[^1]: Students can do one extra rotation after Dean Academics approval.
 
 \newpage
 
 # Where to go for help
+\small
 
-  ------------------------------------------------------------------------------------------------------------------------------
-  **Service**            **Supervisor**                                   **Notes**
-  ---------------------- -------------------------------------------      -----------------------------------
-  Main Reception         Mr. Anand Kumar <reception@ncbs.res.in>          Any general enquiry
+## Non-academic services
 
-  Air Conditioning       Mr. HS Venkataramana <achelp@ncbs.res.in>        AC issues
+  **Service**            | **Supervisor**                       |    **Notes**
+  -----------------------|--------------------------------------|----------------------
+  Main Reception         | Mr. Anand Kumar <reception@ncbs.res.in> | Any general enquiry
+  Air Conditioning       | Mr. HS Venkataramana <achelp@ncbs.res.in> | AC issues
+  Animal Care Facility   | Dr. Mohan <mohan@ncbs.res.in> | Animal procedures; not a helpdesk queue
+  Civil and Interiors    | Mr. H.M. Basavaraja, Ms. Savitha <civilint@ncbs.res.in> | Civil engineering, plumbing, paints, furniture and interiors, gardening
+  Computer services      | Mr. Prasanta Baruah <ithelp@ncbs.res.in> | Computer hardware and software, internet services
+  Electricals            | Mr. Suresh Kumar <elechelp@ncbs.res.in> | Electrical issues, wiring, lighting
+  Electronic Workshop    | Mr. Dorababu <elecworkshop@ncbs.res.in> | Electronic components, PCB
+  Hostel and Canteen     | Mr. Shaju Varghese <hospitality@ncbs.res.in> | Canteen, guest house, hostel, lab cleaning, bathrooms
+  Instrumentation        | Mr. P.C. Gautam <instrumentation@ncbs.res.in>| Lab equipment, UPSs, telecom issues, projectors, videoconferencing
+  Lab kitchen            | <labkitchen@ncbs.res.in>  |  Gas cylinders, media, glassware
+  Library                | Mr. A.D. Chinchure <library@ncbs.res.in> | Books, journals, online resources; not a helpdesk queue
+  Room booking           | Ambili D <https://ncbs.res.in/hippo>  | All room bookings
+  Transport              | <transport@ncbs.res.in>               | Local transport
 
-  Animal Care Facility   Dr. Mohan <mohan@ncbs.res.in                     Animal procedures; not a helpdesk queue
 
-  Civil and Interiors    Mr. H.M. Basavaraja, Ms. Savitha                 Civil engineering, plumbing, paints, 
-                         <civilint@ncbs.res.in>                           furniture and interiors, gardening
-
-  Computer services      Mr. Prasanta Baruah <ithelp@ncbs.res.in>         Computer hardware and software, internet services
-
-  Electricals            Mr. Suresh Kumar <elechelp@ncbs.res.in>          Electrical issues, wiring, lighting
-
-  Electronic Workshop    Mr. Dorababu <elecworkshop@ncbs.res.in>          Electronic components, PCB
-
-  Hostel and Canteen     Mr. Shaju Varghese <hospitality@ncbs.res.in>     Canteen, guest house, hostel, lab cleaning, bathrooms
-
-  Instrumentation        Mr. P.C. Gautam <instrumentation@ncbs.res.in>    Lab equipment, UPSs, telecom issues, projectors, videoconferencing
-
-  Lab kitchen            <labkitchen@ncbs.res.in>                         Gas cylinders, media, glassware
-
-  Library                Mr. A.D. Chinchure <library@ncbs.res.in>         Books, journals, online resources; not a helpdesk queue
-
-  Room booking           Ambili D <https://ncbs.res.in/hippo>             All room bookings
-
-  Transport              <transport@ncbs.res.in>                          Local transport
-  --------------------------------------------------------------------------------------------------------------
-
-## Academic Office 
+## Academic Office
 
 [Academic Office](mailto:acadoffice@ncbs.res.in) \MAILTO{}{acadoffice@ncbs.res.in}
-
-[Ms. K. S. Vishalakshi](mailto:ksvishal@ncbs.res.in) \MAILTO{}{ksvishal@ncbs.res.in}
+, [Ms. K. S. Vishalakshi](mailto:ksvishal@ncbs.res.in) \MAILTO{}{ksvishal@ncbs.res.in}
 
 **For what?** All student academic matters, including scheduling
 Annual Work Seminars, submission of Thesis Advisory Committee reports,
 course transcripts, interactions with MU or TIFR, and thesis submission.
 
-
 ## Establishment and Administrative Office
 [Admin help](mailto:adminhelp@ncbs.res.in) \MAILTO{ }{adminhelp@ncbs.res.in} 
-\newline 
-[Mr. Ashok Rao](mailto:ashok@ncbs.res.in) \MAILTO{ }{ashok@ncbs.res.in} \newline 
+, [Mr. Ashok Rao](mailto:ashok@ncbs.res.in) \MAILTO{ }{ashok@ncbs.res.in}, 
 \MAILTO{Head Admin }{headadmin@ncbs.res.in}
 
 **For what?** Joining formalities, extramural fellowships, interface with outside agencies.
 
-\newpage
+\pagebreak
+\normalsize
+
 \tableofcontents
 
 # Programmes of study
@@ -265,42 +256,40 @@ enrolled in the PhD programme at inStem are awarded the degree by
 Manipal University.
 
 ## Orientation and Rotations 
- New students must arrive on campus by
-August 1 each year and must attend an Orientation Programme which runs
-for three weeks. In this programme, students meet with faculty members
-and their research groups. They are also informed about Research,
-Technical and Administrative services on campus. At the end of the
-Orientation Programme, and at the end of each rotation, students must
-select a host laboratory for their next rotation. Rotation slots must be
-mutually agreed by students and their hosts. Once a decision of host
-laboratory is made, students should request the host to send a
-confirmation email to the Academic Office (acadoffice@ncbs.res.in). It
-is the responsibility of the student to ensure that this email is sent
-by the host PI on time, at the latest by the Thursday prior to the start
-of the rotation. Head Academics might at this stage suggest alternative
-rotation host laboratories. Note that students without Masters degrees
-cannot rotate in or join inStem laboratories. All students do two
-rotations of 8 weeks each, and Int-PhD students do a third 8-week
-rotation. The rotations will start on the last Monday of August each
-year. Students present their work to be graded in poster sessions on the
-last Wednesday of each rotation.
+
+New students must arrive on campus by August 1 each year and must attend an
+Orientation Programme which runs for three weeks. In this programme, students
+meet with faculty members and their research groups. They are also informed
+about Research, Technical and Administrative services on campus. At the end of
+the Orientation Programme, and at the end of each rotation, students must select
+a host laboratory for their next rotation. Rotation slots must be mutually
+agreed by students and their hosts. Once a decision of host laboratory is made,
+students should request the host to send a confirmation email to the Academic
+Office (<acadoffice@ncbs.res.in>). It is the responsibility of the student to
+ensure that this email is sent by the host PI on time, at the latest by the
+Thursday prior to the start of the rotation. Head Academics might at this stage
+suggest alternative rotation host laboratories. Note that students without
+Masters degrees cannot rotate in or join inStem laboratories. All students do
+two rotations of 8 weeks each, and Int-PhD students do a third 8-week rotation.
+The rotations will start on the last Monday of August each year. Students
+present their work to be graded in poster sessions on the last Wednesday of each
+rotation.
 
 ## Identifying a Thesis Supervisor 
- The Rotation Mentorship Committee
-is always available to meet students and discuss their rotation choices
-or their choice of final labs. At least two weeks prior to the
-completion of the last lab rotation, students must meet prospective
-advisors to choose a Thesis Supervisor. Lab choices must be mutually
-agreed by students and their Supervisors. Once a decision is made,
-students should request the Supervisor to send a confirmation email to
-the Academic Office stating their willingness to supervise the student
-(acadoffice@ncbs.res.in). It is the responsibility of the student to
-ensure that this email is sent by the host PI on time, at the latest by
-the Thursday following the poster session at the end of the last
-rotation (in December for PhD students and February for Int-PhD
+
+The Rotation Mentorship Committee is always available to meet students and
+discuss their rotation choices or their choice of final labs. At least two weeks
+prior to the completion of the last lab rotation, students must meet prospective
+advisors to choose a Thesis Supervisor. Lab choices must be mutually agreed by
+students and their Supervisors. Once a decision is made, students should request
+the Supervisor to send a confirmation email to the Academic Office stating their
+willingness to supervise the student (<acadoffice@ncbs.res.in>). It is the
+responsibility of the student to ensure that this email is sent by the host PI
+on time, at the latest by the Thursday following the poster session at the end
+of the last rotation (in December for PhD students and February for Int-PhD
 students). Head Academics might at this stage suggest alternative Thesis
-Supervisors. Students officially join the host lab on the Monday
-immediately after completing rotations.
+Supervisors. Students officially join the host lab on the Monday immediately
+after completing rotations.
 
 ## Thesis Advisory Committee 
  Each student will constitute a Thesis
