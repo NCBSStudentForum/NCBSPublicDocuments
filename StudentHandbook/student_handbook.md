@@ -1,5 +1,5 @@
 ---
-title : Student Handbook - 2017
+title : Student Handbook
 author : NCBS Bangalore
 date : \today 
 header-includes :
@@ -33,50 +33,50 @@ will invite appropriate consequences.
 \small 
 
 It is the student’s responsibility to ensure they meet all requirements
-and deadlines. Each academic year abbreviated Y1, Y2, etc. is from Aug to July.
+and deadlines. **Academic years (Aug to July) are abbreviated Y1, Y2, etc.**
 
 ## PhD Calendar {#phd_calendar}
    
-  **Timeline**        | **Event**                | Notes 
- ---------------------|--------------------------|-------------------------------
+ **Timeline**         |**Event**                 | Notes 
+ :--------------------|:-------------------------|:------------------------------
   Y1 Aug              | Orientation              | Visit to labs and facilities
   Y1 (Sep-Dec)        | Rotations                | 2 rotations [^1] 
-  **Y1 Dec**          | Lab assignments          |
+  *Y1 Dec*            | Lab assignments          |
   Y1 (Mar-Jun)        | TCM and renewel          | Thesis committee meeting
   Y1 Jun              | CE-I   (First attempt) | 
   Y2 Dec              | CE-I   (Retry)         | IntPhd first attempt
-  **Y2 (Jan-Jun)**    | **CE-II and registration** |
+  *Y2 (Jan-Jun)*      | *CE-II and registration* |
   Y3,Y4 (Mar-Jun)     | TCM and renewel          |
-  **Y5 (Aug-Dec)**    | **Thesis approval or extension request** |
-  **Y5 (Jan-Jul)**    | **Synposis and thesis submission** | 
+  *Y5 (Aug-Dec)*      | *Thesis approval or extension request* |
+  *Y5 (Jan-Jul)*      | *Synposis and thesis submission* | 
   *Y6 (Aug-Dec)*      | Thesis approval or extension request | Students on extension
   *Y6 (Jan-Jul)*      | Synposis and thesis submission | Students on extension 
 
 ## IntPhD Calendar {#intphd_calendar}
    
   **Timeline**        | **Event**                | Notes 
- ---------------------|--------------------------|-------------------------------
+ :--------------------|:-------------------------|:------------------------------
   Y1 Aug              | Orientation              | Visit to labs and facilities
   Y1 (Sep-Feb)        | Rotations                | 3 rotations.
-  **Y1 Feb**          | Lab assignments          |
+  *Y1 Feb*            | Lab assignments          |
   Y2 Dec              | CE-I (First attempt)     | Phd (Retry)
   Y2 Jun              | CE-I (Retry)             |
-  **Y3 Dec**          | **CE-II and registration** |
+  *Y3 Dec*            | *CE-II and registration* |
   Y3,Y4,Y5 (Mar-Jun)  | TCM and renewel          |
-  **Y6 (Aug-Dec)**    | **Thesis approval or extension request** |
+  *Y6 (Aug-Dec)*      | *Thesis approval or extension request* |
   Y6 (Jan-Jul)        | Synposis and thesis submission | 
   *Y7 (Aug-Dec)*      | Thesis approval or extension request | Students on extension
   *Y7 (Jan-Jul)*      | Synposis and thesis submission | Students on extension 
 
 ## MSc Calendar {#msc_calendar}
 
-  **Timeline**        | **Event**                | Notes 
- ---------------------|--------------------------|-------------------------------
+  **Timeline**        | **Event**                | **Notes**
+ :--------------------|:-------------------------|:------------------------------
   Y1 Aug              | Orientation              | Visit to labs and facilities
   Y1 (Jan-Jun)        | TCM and renewel          |
   Y2 (Aug-Sep), Y2 (Jan-Jun)       | TCM and renewel          |
-  **Y7 Aug - Dec**    | **Thesis approval**      |
-  **Y7 Jan - Jul**    | **Thesis submission**    |
+  *Y7 Aug - Dec*    | *Thesis approval*      |
+  *Y7 Jan - Jul*    | *Thesis submission*    |
 
 [^1]: Students can do one extra rotation after Dean Academics approval.
 
@@ -88,10 +88,10 @@ and deadlines. Each academic year abbreviated Y1, Y2, etc. is from Aug to July.
 ## Non-academic services
 
   **Service**            | **Supervisor**                       |    **Notes**
-  -----------------------|--------------------------------------|----------------------
+  :----------------------|:-------------------------------------|:---------------------
   Main Reception         | Mr. Anand Kumar <reception@ncbs.res.in> | Any general enquiry
   Air Conditioning       | Mr. HS Venkataramana <achelp@ncbs.res.in> | AC issues
-  Animal Care Facility   | Dr. Mohan <mohan@ncbs.res.in> | Animal procedures; not a helpdesk queue
+  Animal Care Facility   | Dr. Mohan <mohan@ncbs.res.in> | Animal procedures [^2]
   Civil and Interiors    | Mr. H.M. Basavaraja, Ms. Savitha <civilint@ncbs.res.in> | Civil engineering, plumbing, paints, furniture and interiors, gardening
   Computer services      | Mr. Prasanta Baruah <ithelp@ncbs.res.in> | Computer hardware and software, internet services
   Electricals            | Mr. Suresh Kumar <elechelp@ncbs.res.in> | Electrical issues, wiring, lighting
@@ -99,24 +99,25 @@ and deadlines. Each academic year abbreviated Y1, Y2, etc. is from Aug to July.
   Hostel and Canteen     | Mr. Shaju Varghese <hospitality@ncbs.res.in> | Canteen, guest house, hostel, lab cleaning, bathrooms
   Instrumentation        | Mr. P.C. Gautam <instrumentation@ncbs.res.in>| Lab equipment, UPSs, telecom issues, projectors, videoconferencing
   Lab kitchen            | <labkitchen@ncbs.res.in>  |  Gas cylinders, media, glassware
-  Library                | Mr. A.D. Chinchure <library@ncbs.res.in> | Books, journals, online resources; not a helpdesk queue
+  Library                | Mr. A.D. Chinchure <library@ncbs.res.in> | Books, journals, online resources [^2]
   Room booking           | Ambili D <https://ncbs.res.in/hippo>  | All room bookings
   Transport              | <transport@ncbs.res.in>               | Local transport
 
+[^2]: Not a helpdesk queue. For more information, see [Helpdesk System](#helpdesk_system).
 
 ## Academic Office
 
-[Academic Office](mailto:acadoffice@ncbs.res.in) \MAILTO{}{acadoffice@ncbs.res.in}
-, [Ms. K. S. Vishalakshi](mailto:ksvishal@ncbs.res.in) \MAILTO{}{ksvishal@ncbs.res.in}
+Academic Office <acadoffice@ncbs.res.in>, 
+Ms. K. S. Vishalakshi <ksvishal@ncbs.res.in>
 
 **For what?** All student academic matters, including scheduling
 Annual Work Seminars, submission of Thesis Advisory Committee reports,
 course transcripts, interactions with MU or TIFR, and thesis submission.
 
 ## Establishment and Administrative Office
-[Admin help](mailto:adminhelp@ncbs.res.in) \MAILTO{ }{adminhelp@ncbs.res.in} 
-, [Mr. Ashok Rao](mailto:ashok@ncbs.res.in) \MAILTO{ }{ashok@ncbs.res.in}, 
-\MAILTO{Head Admin }{headadmin@ncbs.res.in}
+
+Admin help <adminhelp@ncbs.res.in>, Mr. Ashok Rao <ashok@ncbs.res.in>,
+Head Admin <headadmin@ncbs.res.in>.
 
 **For what?** Joining formalities, extramural fellowships, interface with outside agencies.
 
@@ -128,132 +129,131 @@ course transcripts, interactions with MU or TIFR, and thesis submission.
 # Programmes of study
 
 Our programmes target students who intend to pursue research careers in
-interdisciplinary areas within or outside academia. Our main goal is to
-provide you with a strong technical background and the capacity for
-analytical thinking. Your experience here will prepare you to be
-academic leaders with a competence to define and solve new kinds of
-problems for the advancement of science and society.
+interdisciplinary areas within or outside academia. Our main goal is to provide
+you with a strong technical background and the capacity for analytical thinking.
+Your experience here will prepare you to be academic leaders with a competence
+to define and solve new kinds of problems for the advancement of science and
+society.
 
 ## PhD Programme 
- NCBS and inStem offer a graduate programme leading to
-the award of a PhD degree for students holding a Masters degree in a
-basic science, or a Bachelors degree in any applied science. The
-standard tenure is 5 years. Students from NCBS are registered at TIFR
-Mumbai, and those from inStem at Manipal University.
+
+NCBS and inStem offer a graduate programme leading to the award of a PhD degree
+for students holding a Masters degree in a basic science, or a Bachelors degree
+in any applied science. The standard tenure is 5 years. Students from NCBS
+are registered at TIFR Mumbai, and those from inStem at Manipal University.
 
 ## Integrated MSc-PhD Programme 
- NCBS offers a graduate programme
-leading to the award of a PhD degree for students holding a Bachelors
-degree in any basic or applied science. Students from 4-year Bachelors
-programmes can opt to be considered either for the Int-PhD or the PhD
-stream during the application process. The standard tenure is 6 years.
-Students are registered at TIFR Mumbai.
+
+NCBS offers a graduate programme leading to the award of a PhD degree for
+students holding a Bachelors degree in any basic or applied science. Students
+from 4-year Bachelors programmes can opt to be considered either for the Int-PhD
+or the PhD stream during the application process. The standard tenure is 6
+years.  Students are registered at TIFR Mumbai.
 
 ## MSc-by-Research Programme 
- Candidates applying for the Int-PhD
-programme may sometimes be offered a position in the NCBS
-MSc-by-Research programme. Selected students must identify a suitable
-host laboratory and be funded on extramural grants. The standard tenure
-is 3 years. Students are registered at TIFR Mumbai.
+
+Candidates applying for the Int-PhD programme may sometimes be offered a
+position in the NCBS MSc-by-Research programme. Selected students must identify
+a suitable host laboratory and be funded on extramural grants. The standard
+tenure is 3 years. Students are registered at TIFR Mumbai.
 
 ## MSc in Wildlife and Conservation 
- NCBS, the Centre for Wildlife
-Studies (CWS), and the Wildlife Conservation Society (WCS) jointly run
-the MSc in Wildlife and Conservation programme. This two-year programme
-is organized into three semesters of course work, and a final semester
-of field research and thesis preparation. Students are registered at
+
+NCBS, the Centre for Wildlife Studies (CWS), and the Wildlife Conservation
+Society (WCS) jointly run the MSc in Wildlife and Conservation programme. This
+two-year programme is organized into three semesters of course work, and a final
+semester of field research and thesis preparation. Students are registered at
 TIFR Mumbai.
 
 ## TIFR Academic Structure 
- The Tata Institute of Fundamental Research
-has been deemed a University. The Academic Council of the TIFR exercises
-oversight over the functioning of the University, setting policy,
-initiating new programmes and approving the award of degrees recommended
-by the Subject Boards. The AC is chaired by the Director, TIFR and among
-its external members are three appointed by the UGC. TIFR conducts
-Academic programmes leading to PhD and MSc degrees. These programmes are
-supervised by Subject Boards for Biology, Chemistry, Computer Science,
-Mathematics, Physics, and Science Education. The Biology Subject Board
-has members from DBS, Mumbai and from NCBS, Bangalore with Professor
-Upinder Bhalla as the convenor. The Board Guidelines specify coursework
-requirements and evaluation norms for students and also oversees the
-thesis examination process. The Board chooses examiners for PhD and MSc
-theses and authorizes a viva voce examination when all concerns are
-addressed. Once the student passes the examination, the Board recommends
-award of the relevant degree.
+
+The Tata Institute of Fundamental Research has been deemed a University. The
+Academic Council of the TIFR exercises oversight over the functioning of the
+University, setting policy, initiating new programmes and approving the award of
+degrees recommended by the Subject Boards. The AC is chaired by the Director,
+TIFR and among its external members are three appointed by the UGC. TIFR
+conducts Academic programmes leading to PhD and MSc degrees. These programmes
+are supervised by Subject Boards for Biology, Chemistry, Computer Science,
+Mathematics, Physics, and Science Education. The Biology Subject Board has
+members from DBS, Mumbai and from NCBS, Bangalore with Professor Upinder Bhalla
+as the convenor. The Board Guidelines specify coursework requirements and
+evaluation norms for students and also oversees the thesis examination process.
+The Board chooses examiners for PhD and MSc theses and authorizes a viva voce
+examination when all concerns are addressed. Once the student passes the
+examination, the Board recommends award of the relevant degree.
 
 # Student Categories
 
 ## PhD and Int-PhD Research Scholars 
- Candidates for the PhD and
-Int-PhD programmes are invited to apply in response to advertisements
-appearing in national newspapers in August every year. Candidates
-short-listed on the basis of their written test performance, academic
-record, statement of purpose, and letters of evaluation finally selected
-through an on-campus interview conducted each summer. Research Scholars
-are supported from core NCBS or inStem institutional funds throughout
-their standard tenure. We encourage Research Scholars to apply for
-external fellowships. If the fellowship pays less than the scholarship
-amount, the institute will pay the difference.
+
+Candidates for the PhD and Int-PhD programmes are invited to apply in response
+to advertisements appearing in national newspapers in August every year.
+Candidates short-listed on the basis of their written test performance, academic
+record, statement of purpose, and letters of evaluation finally selected through
+an on-campus interview conducted each summer. Research Scholars are supported
+from core NCBS or inStem institutional funds throughout their standard tenure.
+We encourage Research Scholars to apply for external fellowships. If the
+fellowship pays less than the scholarship amount, the institute will pay the
+difference.
 
 ## MSc-by-Research Students 
- Each year a set of Int-PhD candidates are
-offered a position in the MSc-by-Research programme. MSc students must
-identify and directly join a host laboratory at NCBS. They may be
-supported through CSIR, ICMR or DBT fellowships, or through an
-extramural grant from their host Principal Investigators. Admission and
-continuation in both situations is contingent on association with the
-PI’s laboratory. Contingency grants are not provided for students in
-this programme.
+
+Each year a set of Int-PhD candidates are offered a position in the
+MSc-by-Research programme. MSc students must identify and directly join a host
+laboratory at NCBS. They may be supported through CSIR, ICMR or DBT fellowships,
+or through an extramural grant from their host Principal Investigators.
+Admission and continuation in both situations is contingent on association with
+the PI’s laboratory. Contingency grants are not provided for students in this
+programme.
 
 ## MSc in Wildlife and Conservation 
- Students selected to this
-programme are supported through core programme funds. These students are
-not affiliated with any laboratory; instead, their training, fieldwork,
-and research are coordinated by the Program Directors.
+
+Students selected to this programme are supported through core programme funds.
+These students are not affiliated with any laboratory; instead, their training,
+fieldwork, and research are coordinated by the Program Directors.
 
 ## Transfer students from other TIFR Centres 
- Physics, Chemistry,
-Biology or Computer Science students already enrolled in the PhD
-programmes at other TIFR campuses may conduct their research work at
-NCBS under the guidance of an NCBS faculty member. Such students can
-transfer within TIFR to NCBS and will have to meet the academic
-requirements of NCBS. Similarly, NCBS students may work with faculty
-members at other TIFR Centres. These transfers should be coordinated
-with Head Academics, and with the appropriate Subject Board Convenors.
+
+Physics, Chemistry, Biology or Computer Science students already enrolled in the
+PhD programmes at other TIFR campuses may conduct their research work at NCBS
+under the guidance of an NCBS faculty member. Such students can transfer within
+TIFR to NCBS and will have to meet the academic requirements of NCBS. Similarly,
+NCBS students may work with faculty members at other TIFR Centres. These
+transfers should be coordinated with Head Academics, and with the appropriate
+Subject Board Convenors.
 
 ## Externally registered PhD students 
- A small number of talented
-candidates with fellowships from CSIR or other funding agencies may
-utilize these fellowships to work in our laboratories and if recommended
-by their faculty mentor, register at outside institutions, which
+
+A small number of talented candidates with fellowships from CSIR or other
+funding agencies may utilize these fellowships to work in our laboratories and
+if recommended by their faculty mentor, register at outside institutions, which
 recognize our faculty as guides.
 
 ## Externally funded Junior Research Fellows 
- Students with fellowships
-from CSIR/UGC/ICMR/DBT/DST or other agencies may utilize these
-fellowships to work as JRFs at NCBS and inStem. Candidates interested in
-JRF positions must contact host laboratories directly. Faculty members
-may recommend exceptional JRFs or other candidates to be interviewed for
-entry into the graduate programme during the regular NCBS and inStem
-interviews conducted each summer.
+
+Students with fellowships from CSIR/UGC/ICMR/DBT/DST or other agencies may
+utilize these fellowships to work as JRFs at NCBS and inStem. Candidates
+interested in JRF positions must contact host laboratories directly. Faculty
+members may recommend exceptional JRFs or other candidates to be interviewed for
+entry into the graduate programme during the regular NCBS and inStem interviews
+conducted each summer.
 
 ## Regulations and fees 
- All students must follow the rules and
-regulations applicable to Research Scholars and will enjoy the same
-campus privileges. A tuition grant is awarded to all students in the PhD
-or Int-PhD programme to meet the requirements of tuition fees at TIFR or
-MU. Fees for externally-registered PhD students on grants and students
-in the MSc-by-Research programme are covered by extramural funds
-available to the student or the PI.
+
+All students must follow the rules and regulations applicable to Research
+Scholars and will enjoy the same campus privileges. A tuition grant is awarded
+to all students in the PhD or Int-PhD programme to meet the requirements of
+tuition fees at TIFR or MU. Fees for externally-registered PhD students on
+grants and students in the MSc-by-Research programme are covered by extramural
+funds available to the student or the PI.
 
 # PhD and Integrated PhD
 
 ## Degree Awarding Institutions 
- Students enrolled in the PhD and
-Int-PhD programmes at NCBS are awarded degrees by TIFR, Mumbai. Students
-enrolled in the PhD programme at inStem are awarded the degree by
-Manipal University.
+
+Students enrolled in the PhD and Int-PhD programmes at NCBS are awarded degrees
+by TIFR, Mumbai. Students enrolled in the PhD programme at inStem are awarded
+the degree by Manipal University.
 
 ## Orientation and Rotations 
 
@@ -292,139 +292,138 @@ Supervisors. Students officially join the host lab on the Monday immediately
 after completing rotations.
 
 ## Thesis Advisory Committee 
- Each student will constitute a Thesis
-Advisory Committee (TAC) consisting of the thesis supervisor and at
-least two other members of the faculty. The members of the TAC should be
-chosen in consultation with the thesis supervisor. There is no upper
-limit to the number of members in the TAC, but at least two members of
-this committee including the thesis supervisor should be faculty members
-of NCBS or inStem. Additional members may be from other research
-institutions or universities from within India or abroad.
+
+Each student will constitute a Thesis Advisory Committee (TAC) consisting of the
+thesis supervisor and at least two other members of the faculty. The members of
+the TAC should be chosen in consultation with the thesis supervisor. There is no
+upper limit to the number of members in the TAC, but at least two members of
+this committee including the thesis supervisor should be faculty members of NCBS
+or inStem. Additional members may be from other research institutions or
+universities from within India or abroad.
 
 ## Thesis Committee Meetings 
- Students should constitute and hold their
-first meeting with the TAC by June of their first year. From their
-second year in the programme, students are required to conduct one
-meeting before the end of June every year to ensure renewal of
-studentship, fellowship and hostel accommodation. Head Academics will
-recommend renewal for students based on the TAC report, in July each
-year. The TCM should review performance in courses undertaken in the
-past year and discuss initial research efforts. Students are required to
-submit a brief write up of their work one week before the committee is
-scheduled to meet. Raw data pertaining to the material being presented
-(as lab notebooks or in electronic format) should be available for
-assessment during the meeting with the TAC. The TAC will report the
-progress of the student to Head Academics after each meeting, with a
-copy of the report provided to the student. This report will be referred
-to at the Annual Review of students conducted in July each year to
-decide on extensions and enhancements of fellowships. Apart from these,
-students are required to meet with the TAC to review their performance
-in the Comprehensive Exam, request extensions to the standard tenure,
-and obtain approval for writing their thesis. There is no upper limit on
-the number of meetings, students are encouraged to meet with their TAC
-once every six months to review research progress. Students are
-responsible for scheduling thesis committee meetings and submission of
-the report to the Academic Office.
+
+Students should constitute and hold their first meeting with the TAC by June of
+their first year. From their second year in the programme, students are required
+to conduct one meeting before the end of June every year to ensure renewal of
+studentship, fellowship and hostel accommodation. Head Academics will recommend
+renewal for students based on the TAC report, in July each year. The TCM should
+review performance in courses undertaken in the past year and discuss initial
+research efforts. Students are required to submit a brief write up of their work
+one week before the committee is scheduled to meet. Raw data pertaining to the
+material being presented (as lab notebooks or in electronic format) should be
+available for assessment during the meeting with the TAC. The TAC will report
+the progress of the student to Head Academics after each meeting, with a copy of
+the report provided to the student. This report will be referred to at the
+Annual Review of students conducted in July each year to decide on extensions
+and enhancements of fellowships. Apart from these, students are required to meet
+with the TAC to review their performance in the Comprehensive Exam, request
+extensions to the standard tenure, and obtain approval for writing their thesis.
+There is no upper limit on the number of meetings, students are encouraged to
+meet with their TAC once every six months to review research progress. Students
+are responsible for scheduling thesis committee meetings and submission of the
+report to the Academic Office.
 
 ## Maintenance of laboratory notebooks & experimental records 
- Every
-researcher must maintain a carefully detailed laboratory notebook.
-Laboratory notebooks with numbered pages are available from Stores and
-must be used for recording information on experiments, unless
-e-Notebooks are used by the laboratory. Pages may not be torn or removed
-from a laboratory notebook. Notebooks and records must allow complete
-reconstruction of experiments and should include date and time of the
-experiment; rationale for the experiment; details of each step (volumes,
-number of animals, time of incubation etc.); raw data details on every
-experimental trial. Laboratory notebooks with raw data, and
-well-documented electronic versions of the data should be submitted to
-the Thesis Supervisor at the time of thesis submission.
+
+Every researcher must maintain a carefully detailed laboratory notebook.
+Laboratory notebooks with numbered pages are available from Stores and must be
+used for recording information on experiments, unless e-Notebooks are used by
+the laboratory. Pages may not be torn or removed from a laboratory notebook.
+Notebooks and records must allow complete reconstruction of experiments and
+should include date and time of the experiment; rationale for the experiment;
+details of each step (volumes, number of animals, time of incubation etc.); raw
+data details on every experimental trial. Laboratory notebooks with raw data,
+and well-documented electronic versions of the data should be submitted to the
+Thesis Supervisor at the time of thesis submission.
 
 ## Duration of the Programme 
- PhD students are expected to complete
-thesis requirements within a period of five years or earlier, from the
-date of joining NCBS or inStem. Int-PhD students are expected to
-complete thesis requirements within a period of six years or earlier,
-from the date of joining NCBS. The minimum residency period for
-submission of a PhD thesis is two years from the date of joining for
-NCBS, and three years following registration at MU for inStem.
-Fellowship support is provided for the duration of the standard tenure
-of the programme, subject to recommendations by the TAC. Extension of
-Fellowship beyond the standard tenure, which is granted for a maximum
-period of 6 months, requires the approval of Head Academics. PhD or
-Int-PhD students seeking extensions should submit a detailed
-justification through a thesis committee report to Head Academics in
-December before the start of their 5th or 6th year, respectively.
-Extension of studentship is granted for a maximum of 12 months but
-salary support from NCBS/inStem is not provided for more than 6 months
-beyond standard tenure. The thesis supervisor will typically provide
-salary support for extensions beyond the first six-month period.
-Students may stay in hostel during the period of the first extension but
-will lose priority for allotment of a single room.
+
+PhD students are expected to complete thesis requirements within a period of
+five years or earlier, from the date of joining NCBS or inStem. Int-PhD students
+are expected to complete thesis requirements within a period of six years or
+earlier, from the date of joining NCBS. The minimum residency period for
+submission of a PhD thesis is two years from the date of joining for NCBS, and
+three years following registration at MU for inStem.  Fellowship support is
+provided for the duration of the standard tenure of the programme, subject to
+recommendations by the TAC. Extension of Fellowship beyond the standard tenure,
+which is granted for a maximum period of 6 months, requires the approval of Head
+Academics. PhD or Int-PhD students seeking extensions should submit a detailed
+justification through a thesis committee report to Head Academics in December
+before the start of their 5th or 6th year, respectively.  Extension of
+studentship is granted for a maximum of 12 months but salary support from
+NCBS/inStem is not provided for more than 6 months beyond standard tenure. The
+thesis supervisor will typically provide salary support for extensions beyond
+the first six-month period.  Students may stay in hostel during the period of
+the first extension but will lose priority for allotment of a single room.
 
 ## Credit Requirements 
 
  **Category**         | **PhD** | **IntPhD**
- ---------------------|---------|---------
+ :--------------------|:--------|:--------
  Coursework           |  16     |  22   
  LaboratoryRotations  |  4      |  6   
  ResearchPerformance  |  20     |  22 
  Thesis               |  30     |  30
 
 # MSc-by-Research
+
 ## Selection
- Students offered a position in the MSc-by-Research
-programme via the Int-PhD interviews can be appointed on grants funded
-by external agencies, but cannot be supported from core funds. Students
-already in the Int-PhD programme are not allowed to select this option.
+
+Students offered a position in the MSc-by-Research programme via the Int-PhD
+interviews can be appointed on grants funded by external agencies, but cannot be
+supported from core funds. Students already in the Int-PhD programme are not
+allowed to select this option.
 
 ## Thesis Advisory Committees 
- A committee consisting of the Thesis
-Supervisor and two other faculty members should be constituted and
-should meet at the start of Year 2, before September. In this meeting,
-the committee will review the student’s performance in courses and
-research work. The student has to obtain the permission of the TAC to
-register at TIFR. The student must hold a second meeting with the TAC in
-Year 2, before May. In this meeting the TAC should monitor the progress
-of the student. A final meeting with the TAC should be held in Year 3,
-before December, to obtain approval for writing the thesis. A report
-which includes recommendations made by the TAC must be submitted by the
-Thesis Supervisor to the academic office, with a copy to the student,
-after every TAC meeting. While these three meetings are mandatory, there
-is no upper limit to the number of meetings with the TAC.
+
+A committee consisting of the Thesis Supervisor and two other faculty members
+should be constituted and should meet at the start of Year 2, before September.
+In this meeting, the committee will review the student’s performance in courses
+and research work. The student has to obtain the permission of the TAC to
+register at TIFR. The student must hold a second meeting with the TAC in Year 2,
+before May. In this meeting the TAC should monitor the progress of the student.
+A final meeting with the TAC should be held in Year 3, before December, to
+obtain approval for writing the thesis. A report which includes recommendations
+made by the TAC must be submitted by the Thesis Supervisor to the academic
+office, with a copy to the student, after every TAC meeting. While these three
+meetings are mandatory, there is no upper limit to the number of meetings with
+the TAC.
 
 ## Registration for MSc 
- MSc students register at TIFR at the end of
-their first year or the beginning of the second year, subject to
-evaluation of their coursework and research performance by the TAC.
-Registration requirements have to be completed before the end of
-September in the second year in the programme. A minimum residency
-period of one year from the date of joining is required for award of the
-MSc degree.
+
+MSc students register at TIFR at the end of their first year or the beginning of
+the second year, subject to evaluation of their coursework and research
+performance by the TAC.  Registration requirements have to be completed before
+the end of September in the second year in the programme. A minimum residency
+period of one year from the date of joining is required for award of the MSc
+degree.
 
 ## Renewal of appointment 
- In the first year, before the end of June,
-the Thesis Supervisor must assess the student’s performance and submit a
-fellowship renewal request to the Academic Office. In subsequent years
-renewal is based on the recommendation of the TAC.
+
+In the first year, before the end of June, the Thesis Supervisor must assess the
+student’s performance and submit a fellowship renewal request to the Academic
+Office. In subsequent years renewal is based on the recommendation of the TAC.
 
 ## Course requirements 
- MSc students are required to take a minimum of
-12 credits in coursework. In addition, they will undertake research
-projects accruing 2 credits each semester, and earn 36 credits for the
-thesis which is evaluated. Students are advised to complete course
-requirements in the first two semesters after joining.
+
+MSc students are required to take a minimum of 12 credits in coursework. In
+addition, they will undertake research projects accruing 2 credits each
+semester, and earn 36 credits for the thesis which is evaluated. Students are
+advised to complete course requirements in the first two semesters after
+joining.
 
 ## Annual Work Seminars and Journal Clubs 
- Students are expected to
-present a formal AWS which will be evaluated by their TACs. The first
-such presentation will be made during the second year. Active and
-regular participation in one of the journal clubs held on a weekly basis
-is mandatory for all students.
+
+Students are expected to present a formal AWS which will be evaluated by their
+TACs. The first such presentation will be made during the second year. Active
+and regular participation in one of the journal clubs held on a weekly basis is
+mandatory for all students.
 
 ## Submission of thesis 
- Formal approval from the TAC is necessary to
-start writing a thesis. There are no extensions in the MSc Programme.
+
+Formal approval from the TAC is necessary to start writing a thesis. There are
+no extensions in the MSc Programme.
 
 ## Credit requirements 
   --------------------- ----
@@ -433,122 +432,122 @@ start writing a thesis. There are no extensions in the MSc Programme.
   Thesis                  24
   --------------------- ----
 
-## MSc in Wildlife Biology and Conservation
+# MSc in Wildlife Biology and Conservation
 
 ## Background 
- This programme is offered by NCBS, the Centre for
-Wildlife Studies (CWS), and the Wildlife Conservation Society (WCS). It
-is open to graduates from any field who are less than 35 years of age,
-with at least 50% marks in the core subjects. The admission process
-includes an entrance test and an interview. The entrance test consists
-of multiple-choice questions that assess competence in the English
-language, logical and analytical skills, mathematics, statistics, basic
-biology and ecology, and general knowledge relevant to wildlife,
-ecological and conservation issues, as well as an essay section on
-conservation issues. Dr. Ajith Kumar and Dr. Jayashree Ratnam serve as
-Directors of this programme.
+
+This programme is offered by NCBS, the Centre for Wildlife Studies (CWS), and
+the Wildlife Conservation Society (WCS). It is open to graduates from any field
+who are less than 35 years of age, with at least 50% marks in the core subjects.
+The admission process includes an entrance test and an interview. The entrance
+test consists of multiple-choice questions that assess competence in the English
+language, logical and analytical skills, mathematics, statistics, basic biology
+and ecology, and general knowledge relevant to wildlife, ecological and
+conservation issues, as well as an essay section on conservation issues. Dr.
+Ajith Kumar and Dr. Jayashree Ratnam serve as Directors of this programme.
 
 ## Course structure 
- The programme consists of three semesters of
-classroom and field courses and a fourth semester of project work.
-Students typically complete 18-20 courses during the first three
-semesters. In general, papers are scheduled as follows The first
-semester consists of foundation courses in the biological and ecological
-sciences, mathematics and statistics. It also includes hands-on training
-in the application of modern tools in conservation such as remote
-sensing and GIS. The second semester builds on the foundation to more
-advanced courses such as Population, Behavioral and Conservation
-Ecology, Species Interactions, Advanced Statistics, Marine Ecology and
-Scientific Writing. It also develops communication and problem solving
-skills that are necessary to effectively practice conservation. The
-third semester addresses the historical, social and economic framework
-within which conservation operates, and some advanced electives. The
-programme gives equal emphasis on providing theoretical understanding
-and developing practical skills. Classroom lectures, laboratory work,
-assignments, debates, group discussions, student presentations, short
-field exercises and extended field visits are therefore given equal
-importance.
+
+The programme consists of three semesters of classroom and field courses and a
+fourth semester of project work.  Students typically complete 18-20 courses
+during the first three semesters. In general, papers are scheduled as follows
+The first semester consists of foundation courses in the biological and
+ecological sciences, mathematics and statistics. It also includes hands-on
+training in the application of modern tools in conservation such as remote
+sensing and GIS. The second semester builds on the foundation to more advanced
+courses such as Population, Behavioral and Conservation Ecology, Species
+Interactions, Advanced Statistics, Marine Ecology and Scientific Writing. It
+also develops communication and problem solving skills that are necessary to
+effectively practice conservation. The third semester addresses the historical,
+social and economic framework within which conservation operates, and some
+advanced electives. The programme gives equal emphasis on providing theoretical
+understanding and developing practical skills. Classroom lectures, laboratory
+work, assignments, debates, group discussions, student presentations, short
+field exercises and extended field visits are therefore given equal importance.
 
 ## Dissertation project 
- In the fourth semester, students design and
-carry out a conservation related research project under the supervision
-of one guide and one or two co-guides. In the last week of the semester
-the students will submit a dissertation based on the research, in the
-form of one or more manuscripts ready for submission to a peer-reviewed
-journal. Students will also present their findings in a public defense.
+
+In the fourth semester, students design and carry out a conservation related
+research project under the supervision of one guide and one or two co-guides. In
+the last week of the semester the students will submit a dissertation based on
+the research, in the form of one or more manuscripts ready for submission to a
+peer-reviewed journal. Students will also present their findings in a public
+defense.
 
 ## Internships during semester breaks 
- During breaks between semesters,
-students are encouraged to do internships with other research and
-conservation organizations in the country. In these, students pursue
-specific topics of interest, gain exposure to different approaches to
-conservation and research, establish connections in the wider community
-and identify potential future projects. If required, the programme
-office will help the students identify projects and institutions that
-they would like to work with.
+
+During breaks between semesters, students are encouraged to do internships with
+other research and conservation organizations in the country. In these, students
+pursue specific topics of interest, gain exposure to different approaches to
+conservation and research, establish connections in the wider community and
+identify potential future projects. If required, the programme office will help
+the students identify projects and institutions that they would like to work
+with.
 
 ## Field trips 
- There will be one major field trip in each semester, in
-addition to short trips throughout the course. Field visits to various
-protected areas in India expose the students to fauna and flora of
-different biomes, field identification and tracking skills, field
-sampling techniques, elements of research design and issues in
-practicing on-ground conservation. Students are expected to have field
-guides, binoculars, compasses, field clothes and sleeping bags during
-field trips.
+
+There will be one major field trip in each semester, in addition to short trips
+throughout the course. Field visits to various protected areas in India expose
+the students to fauna and flora of different biomes, field identification and
+tracking skills, field sampling techniques, elements of research design and
+issues in practicing on-ground conservation. Students are expected to have field
+guides, binoculars, compasses, field clothes and sleeping bags during field
+trips.
 
 ## Library 
- Students will have access to libraries of NCBS, CWS and
-Centre for Ecological Sciences, including online journals. Students are,
-however, expected to have personal copies of reference books such as
-field guides and basic statistics texts. Please follow rules and
-regulations of each library regarding issuing books and referencing.
+
+Students will have access to libraries of NCBS, CWS and Centre for Ecological
+Sciences, including online journals. Students are, however, expected to have
+personal copies of reference books such as field guides and basic statistics
+texts. Please follow rules and regulations of each library regarding issuing
+books and referencing.
 
 ## Assessment and student performance 
- Student evaluation in the first
-three semesters will include flexible continuous assessment
-(assignments, term papers, student presentations, quizzes, short
-projects, class participation etc.) and written examinations. A minimum
-of 50% is necessary to pass in any course. The overall grading is based
-on the cumulative grade point average (CGPA; NCBS follows a letter
-grading system based on final course marks A+: 90-100; A 80-89; B+:
-70-79; B 60-69; C+: 50-59 Pass; C 40-49 Fail). Students who fail in a
-course have to attempt a re-examination, in which the maximum marks
-possible correspond to the passing grade. Students who fail in more than
-two courses may not continue in the programme. Students who continue to
-under-perform despite repeated warnings may also be asked to leave the
-programme.
+
+Student evaluation in the first three semesters will include flexible continuous
+assessment (assignments, term papers, student presentations, quizzes, short
+projects, class participation etc.) and written examinations. A minimum of 50%
+is necessary to pass in any course. The overall grading is based on the
+cumulative grade point average (CGPA; NCBS follows a letter grading system based
+on final course marks A+: 90-100; A 80-89; B+: 70-79; B 60-69; C+: 50-59 Pass; C
+40-49 Fail). Students who fail in a course have to attempt a re-examination, in
+which the maximum marks possible correspond to the passing grade. Students who
+fail in more than two courses may not continue in the programme. Students who
+continue to under-perform despite repeated warnings may also be asked to leave
+the programme.
 
 ## Attendance 
- Students are expected to attend all classes, laboratory
-and field exercises, and other course-related activities. In case of
-illness or other emergencies, students are requested to make all
-attempts to contact the programme office as early as possible.
+
+Students are expected to attend all classes, laboratory and field exercises, and
+other course-related activities. In case of illness or other emergencies,
+students are requested to make all attempts to contact the programme office as
+early as possible.
 
 ## General guidelines on behavior 
- Guidelines regarding the use of
-equipment, records, laboratories, computers, internet and behavior are
-outlined in general guidelines for students at NCBS. In particular,
-students must behave responsibly when using different facilities on
-campus including laboratories, equipment, library, canteen, cafeteria,
-sports facilities, etc.
+
+Guidelines regarding the use of equipment, records, laboratories, computers,
+internet and behavior are outlined in general guidelines for students at NCBS.
+In particular, students must behave responsibly when using different facilities
+on campus including laboratories, equipment, library, canteen, cafeteria, sports
+facilities, etc.
 
 ## Academic integrity 
- Plagiarism, including copying assignments and
-during written examinations, will be dealt with very strictly. Students
-must ensure that they are familiar with the proper conventions on citing
-others’ ideas and publications, and always clarify from faculty how much
-collaboration with classmates is permissible. During field trips,
-students must remember that they represent NCBS and other partner
-institutions, and comport themselves accordingly. Many of the field
-sites visited are locations of long-term research and conservation
-projects of these organizations, so students must ensure that they do
-not do anything that jeopardizes these projects.
+
+Plagiarism, including copying assignments and during written examinations, will
+be dealt with very strictly. Students must ensure that they are familiar with
+the proper conventions on citing others’ ideas and publications, and always
+clarify from faculty how much collaboration with classmates is permissible.
+During field trips, students must remember that they represent NCBS and other
+partner institutions, and comport themselves accordingly. Many of the field
+sites visited are locations of long-term research and conservation projects of
+these organizations, so students must ensure that they do not do anything that
+jeopardizes these projects.
 
 ## Safety 
- Student personal safety is of utmost importance; Students
-therefore have to strictly follow instructions that are given while
-working in laboratories and on field trips.
+
+Student personal safety is of utmost importance; Students therefore have to
+strictly follow instructions that are given while working in laboratories and on
+field trips.
 
 ## Credit requirements 
 
@@ -559,49 +558,48 @@ working in laboratories and on field trips.
 
 # Graduate Coursework
 
-Courses are an important component in the training of graduate students
-on campus. The Graduate Coursework Programme aims to create an exciting
-and distinctive intellectual environment within which students are
-continually exposed to new techniques and new ways of thinking. The
-programme is structured so that entering students may plan their
-semesters in advance, in order to meet their academic requirements.
-Students are encouraged to take as many courses as they feel necessary,
-or as recommended by their supervisors and thesis committees. All
-courses taken by students and the grade obtained are listed in the final
-transcript.
+Courses are an important component in the training of graduate students on
+campus. The Graduate Coursework Programme aims to create an exciting and
+distinctive intellectual environment within which students are continually
+exposed to new techniques and new ways of thinking. The programme is structured
+so that entering students may plan their semesters in advance, in order to meet
+their academic requirements.  Students are encouraged to take as many courses as
+they feel necessary, or as recommended by their supervisors and thesis
+committees. All courses taken by students and the grade obtained are listed in
+the final transcript.
 
 ## Academic terms 
- The bulk of courses will be offered in one two
-terms Term 1 Aug – Dec. Term 2 Jan – Jun. In addition, the campus
-hosts several workshops on a variety of topics throughout the year.
-Students are encouraged to actively participate in workshops. However, a
-maximum of one workshop may be used toward credit requirements.
-Workshops are typically scheduled in Dec-Jan and Jun-Jul to avoid
+
+The bulk of courses will be offered in one two terms Term 1 Aug – Dec. Term 2
+Jan – Jun. In addition, the campus hosts several workshops on a variety of
+topics throughout the year.  Students are encouraged to actively participate in
+workshops. However, a maximum of one workshop may be used toward credit
+requirements.  Workshops are typically scheduled in Dec-Jan and Jun-Jul to avoid
 conflict with courses.
 
 ## Course types 
- Basic courses provide a general foundation in various
-fields. They will typically follow one or more textbooks, and students
-will be assessed on their performance in homework, exams, presentations
-and class discussions. Advanced courses introduce students to specific
-advanced research areas, exploring how central ideas have developed, and
-training students to parse the relevant journal literature. These are
-typically seminar-style courses, and often require students to turn in
-projects or make presentations in place of a written exam.
+
+Basic courses provide a general foundation in various fields. They will
+typically follow one or more textbooks, and students will be assessed on their
+performance in homework, exams, presentations and class discussions. Advanced
+courses introduce students to specific advanced research areas, exploring how
+central ideas have developed, and training students to parse the relevant
+journal literature. These are typically seminar-style courses, and often require
+students to turn in projects or make presentations in place of a written exam.
 
 ## Course credits 
- 1 credit = 10 contact hours. For example, a 3-credit
-course can be 1.5 hour lectures, 2 times a week, for 10 weeks; or 1
-hour lectures, 2 times a week, for 15 weeks. Basic courses are worth 3
-credits; advanced courses are usually worth 2 credits or more. Workshops
-provide 1-2 credits.
+
+1 credit = 10 contact hours. For example, a 3-credit course can be 1.5 hour
+lectures, 2 times a week, for 10 weeks; or 1 hour lectures, 2 times a week, for
+15 weeks. Basic courses are worth 3 credits; advanced courses are usually worth
+2 credits or more. Workshops provide 1-2 credits.
 
 ## Online course descriptions 
- Course offerings are listed at
-www.ncbs.res.in/ncbscourses. The course type, number of credits, and
-basic descriptions will be available four semesters in advance. More
-detailed information, including the name of the instructor, the date of
-the first meeting, the weekly schedule, and the detailed syllabus, will
+
+Course offerings are listed at <https://www.ncbs.res.in/ncbscourses>. The course
+type, number of credits, and basic descriptions will be available four semesters
+in advance. More detailed information, including the name of the instructor, the
+date of the first meeting, the weekly schedule, and the detailed syllabus, will
 be available one semester in advance.
 
 ## Grades 
@@ -642,26 +640,26 @@ per the grading system of the Institute concerned. Each institution follows its
 own calendar so external courses must be planned well in advance.
 
 ## Exceptions 
- Any issues not listed here (e.g. transfer of credits,
-absence from courses due to scheduling conflicts, inability to complete
-a course during a single term, etc.) should be discussed with Head
-Academics, or the course instructor. Students who join the programme
-after having already passed graduate level courses at other recognized
-institutions may be granted an exemption to the course work
-requirements, at the discretion of the Biology Subject Board. Requests
-for this may be submitted via Head Academics.
+
+Any issues not listed here (e.g. transfer of credits, absence from courses due
+to scheduling conflicts, inability to complete a course during a single term,
+etc.) should be discussed with Head Academics, or the course instructor.
+Students who join the programme after having already passed graduate level
+courses at other recognized institutions may be granted an exemption to the
+course work requirements, at the discretion of the Biology Subject Board.
+Requests for this may be submitted via Head Academics.
 
 ## Annual Work Seminars and Journal Clubs 
- Students are expected to
-present a formal AWS which will be evaluated by their TAC. The first
-such presentation will typically be scheduled during the student's
-second year in the programme. Students are required to coordinate their
-presentations with the TAC. Notes on AWS performance must be included in
-the TCM reports. The calendar for the AWS is typically announced three
-months in advance. Students who are unable to speak in the scheduled
-slot must inform Head Academics well in advance and arrange for an
-alternate speaker. Active and regular participation in one of the
-journal clubs held on a weekly basis is mandatory for all students.
+
+Students are expected to present a formal AWS which will be evaluated by their
+TAC. The first such presentation will typically be scheduled during the
+student's second year in the programme. Students are required to coordinate
+their presentations with the TAC. Notes on AWS performance must be included in
+the TCM reports. The calendar for the AWS is typically announced three months in
+advance. Students who are unable to speak in the scheduled slot must inform Head
+Academics well in advance and arrange for an alternate speaker. Active and
+regular participation in one of the journal clubs held on a weekly basis is
+mandatory for all students.
 
 ## Coursework credit requirements 
 
@@ -672,47 +670,46 @@ journal clubs held on a weekly basis is mandatory for all students.
 
 # Comprehensive Examination
 
-Students must pass the CE Parts I and II to register at TIFR or MU. The
-CE is designed to test the breadth of a student’s background, as well as
-their ability to read the literature and formulate a research question.
+Students must pass the CE Parts I and II to register at TIFR or MU. The CE is
+designed to test the breadth of a student’s background, as well as their ability
+to read the literature and formulate a research question.
 
 ## Part I 
- This has two closed-book written sections, each of which
-must be completed within 4 hours. Section A includes questions from core
-subjects which require short answers, and test understanding of basic
-scientific concepts. Students must pass a minimum number of questions to
-qualify for an overall pass. The total number of questions and the
-minimum passing requirements can vary from year to year, and will be
-described in the exam. Section B requires students to read papers from
-the primary scientific literature, critique these papers, and describe
-original research projects based on their reading. Students have two
+
+This has two closed-book written sections, each of which must be completed
+within 4 hours. Section A includes questions from core subjects which require
+short answers, and test understanding of basic scientific concepts. Students
+must pass a minimum number of questions to qualify for an overall pass. The
+total number of questions and the minimum passing requirements can vary from
+year to year, and will be described in the exam. Section B requires students to
+read papers from the primary scientific literature, critique these papers, and
+describe original research projects based on their reading. Students have two
 attempts to pass Part I, following which they may appear for Part II.
 
 ## Part II 
- This is a viva voce examination in the area of research.
-Students should assemble their CE committee in consultation with Head
-Academics. This committee must include the TAC but may also include
-external members. This examination will cover the student’s proposed
-research area, but the committee may also test a student’s background,
-material from courses, etc. The CE committee may declare the student
-passed or ask a student to reappear for Part II. Students have two
+
+This is a viva voce examination in the area of research.  Students should
+assemble their CE committee in consultation with Head Academics. This committee
+must include the TAC but may also include external members. This examination
+will cover the student’s proposed research area, but the committee may also test
+a student’s background, material from courses, etc. The CE committee may declare
+the student passed or ask a student to reappear for Part II. Students have two
 attempts to pass Part II.
 
 ## Deferments and failed attempts 
- Attempts of Part I and II of the CE
-can be deferred by 6 months. The request for deferment has to be
-submitted in writing to Head Academics following consultation with the
-TAC. Irrespective of the deferment, the deadline for registration to the
-PhD programme is not correspondingly extended. In the event that a
-student performs unsatisfactorily in the second attempt of Part I, the
-CE committee can petition Head Academics to allow the student to appear
-for Part II. However, an unsatisfactory performance in Part II will lead
-to the student being asked to leave the programme. If student has
-sufficient research work despite an unsatisfactory performance in the
-CE, he or she may be permitted by Head Academics to submit a thesis for
-an MPhil degree (for students in the PhD programme) or an
-MSc-by-Research degree (for students in the Int-PhD programme) within
-six months. This thesis is evaluated by external examiners, and does not
+
+Attempts of Part I and II of the CE can be deferred by 6 months. The request for
+deferment has to be submitted in writing to Head Academics following
+consultation with the TAC. Irrespective of the deferment, the deadline for
+registration to the PhD programme is not correspondingly extended. In the event
+that a student performs unsatisfactorily in the second attempt of Part I, the CE
+committee can petition Head Academics to allow the student to appear for Part
+II. However, an unsatisfactory performance in Part II will lead to the student
+being asked to leave the programme. If student has sufficient research work
+despite an unsatisfactory performance in the CE, he or she may be permitted by
+Head Academics to submit a thesis for an MPhil degree (for students in the PhD
+programme) or an MSc-by-Research degree (for students in the Int-PhD programme)
+within six months. This thesis is evaluated by external examiners, and does not
 have to be supported by published manuscript.
 
 ## Recommended timelines 
@@ -725,16 +722,15 @@ Also see [Academic Calendar](#academic_calendar).
 
 # Registration and Renewals 
 
-The detailed checklist of forms and documents required for registration
-at TIFR and MU is available at the Academic Office. Please ensure you
-are using up-to-date forms. PhD and Int-PhD students at NCBS are
-eligible to register with TIFR on completion of coursework requirements
-and passing the CE. PhD students at inStem are eligible to register with
-MU on passing the CE, and coursework requirements may be completed in
-the first year after registration. MSc-by-Research students at NCBS are
-eligible to register with TIFR on completion of coursework. Studentship
-must be renewed annually, and runs from Aug 1 – July 31 during any
-academic year.
+The detailed checklist of forms and documents required for registration at TIFR
+and MU is available at the Academic Office. Please ensure you are using
+up-to-date forms. PhD and Int-PhD students at NCBS are eligible to register with
+TIFR on completion of coursework requirements and passing the CE. PhD students
+at inStem are eligible to register with MU on passing the CE, and coursework
+requirements may be completed in the first year after registration.
+MSc-by-Research students at NCBS are eligible to register with TIFR on
+completion of coursework. Studentship must be renewed annually, and runs from
+Aug 1 – July 31 during any academic year.
 
 ## Registration deadlines 
 
@@ -793,288 +789,280 @@ in the academic programme.
     Academic Office.
 
 ## Assessments and renewals 
- Studentship and the associated fellowship
-is renewed on an annual basis, subject to satisfactory performance in
-graduate work. July 31st marks the end of studentship unless renewed
-earlier in the year based on the TAC report submitted in June. Fo
-renewal, primary importance is given to progress on thesis research but
-students are also expected to perform well in coursework, AWS, and
-journal clubs. Progress in all these areas is evaluated by the TAC. If
-the TAC finds that the overall progress of a student is unsatisfactory,
-the committee may recommend to Head Academics that the student leave the
-programme. Decisions of this nature will be taken in consultation with
-the Thesis Supervisor, the Dean, and the Director.
+
+Studentship and the associated fellowship is renewed on an annual basis, subject
+to satisfactory performance in graduate work. July 31st marks the end of
+studentship unless renewed earlier in the year based on the TAC report submitted
+in June. Fo renewal, primary importance is given to progress on thesis research
+but students are also expected to perform well in coursework, AWS, and journal
+clubs. Progress in all these areas is evaluated by the TAC. If the TAC finds
+that the overall progress of a student is unsatisfactory, the committee may
+recommend to Head Academics that the student leave the programme. Decisions of
+this nature will be taken in consultation with the Thesis Supervisor, the Dean,
+and the Director.
 
 ## Students supported by fellowships from the CSIR/ICMR/DBT 
- These
-funding bodies require an annual progress report countersigned by the
-Thesis Supervisor. Renewal and enhancement of the fellowship by
-CSIR/ICMR/DBT after the 2nd and 4th year is contingent upon submission
-of an assessment report by a three-member advisory committee
-recommending upgradation or continuation of fellowship. This advisory
-committee must include the TAC and one faculty member from another
-Institute or University.
+
+These funding bodies require an annual progress report countersigned by the
+Thesis Supervisor. Renewal and enhancement of the fellowship by CSIR/ICMR/DBT
+after the 2nd and 4th year is contingent upon submission of an assessment report
+by a three-member advisory committee recommending upgradation or continuation of
+fellowship. This advisory committee must include the TAC and one faculty member
+from another Institute or University.
 
 ## Extensions 
- Requests for extension beyond the standard tenure must
-be submitted in writing by the TAC to Head Academics before the start of
-the Semester 9 or Semester 11 for PhD and Int-PhD students respectively.
-Extensions are not granted in the MSc-by-Research programme. The request
-should include a justification detailing the experiments proposed in the
-following year, and projected timelines for a first-author peer-reviewed
-publication. Extensions are granted for one year, but a reduced
-fellowship from core funds is granted for 6 months only. Students on
-extension lose priority for hostel accommodation. Within 6 months of the
-extension (by January 31st) students must meet their TAC and obtain
-written approval to start on their thesis. This TAC report must be
-submitted to the Academic Office, along with a note from the Thesis
-Supervisor providing the extramural funding source from which the
-student is to be supported. Students must submit their synopsis and
-thesis to the Academic Office within one year of extension, any
-subsequent changes to the thesis will be strongly discouraged. The
-thesis will be held at the Academic Office until the student is formally
-to submit to TIFR or MU, at which stage the relevant forms can also be
-filled and submitted. Any extension of studentship beyond one year is
-contingent on the synopsis and thesis being received by the Academic
-Office. Requests for such additional extensions should be directed to
-Head Academics three months in advance and should be approved by the TAC
-and Thesis Supervisor. Even if the thesis is received, such extensions
-are granted only for compelling medical or academic reasons.
+
+Requests for extension beyond the standard tenure must be submitted in writing
+by the TAC to Head Academics before the start of the Semester 9 or Semester 11
+for PhD and IntPhD students respectively.  Extensions are not granted in the
+MSc-by-Research programme. The request should include a justification
+detailing the experiments proposed in the following year, and projected
+timelines for a first-author peer-reviewed publication. Extensions are
+granted for one year, but a reduced fellowship from core funds is granted
+for 6 months only. Students on extension lose priority for hostel
+accommodation. Within 6 months of the extension (by January 31st)
+students must meet their TAC and obtain written approval to start on
+their thesis. This TAC report must be submitted to the Academic Office,
+along with a note from the Thesis Supervisor providing the extramural
+funding source from which the student is to be supported. Students must
+submit their synopsis and thesis to the Academic Office within one year
+of extension, any subsequent changes to the thesis will be strongly
+discouraged. The thesis will be held at the Academic Office until the
+student is formally to submit to TIFR or MU, at which stage the relevant
+forms can also be filled and submitted. Any extension of studentship
+beyond one year is contingent on the synopsis and thesis being received
+by the Academic Office. Requests for such additional extensions should
+be directed to Head Academics three months in advance and should be
+approved by the TAC and Thesis Supervisor. Even if the thesis is
+received, such extensions are granted only for compelling medical or
+academic reasons.
 
 ## Bridging Postdoctoral Appointment 
- If a student wishes to stay on
-for short periods after thesis submission for the completion of papers,
-the Thesis Supervisor should submit a request for a Bridging Appointment
-to Head Academics one month before thesis submission, supported by a
-copy of the student’s curriculum vitae. The bridging appointment is
-tenable for a maximum period of 12 months. Accommodation is not provided
-on a Bridging Appointment.
+
+If a student wishes to stay on for short periods after thesis submission for the
+completion of papers, the Thesis Supervisor should submit a request for a
+Bridging Appointment to Head Academics one month before thesis submission,
+supported by a copy of the student’s curriculum vitae. The bridging appointment
+is tenable for a maximum period of 12 months. Accommodation is not provided on a
+Bridging Appointment.
 
 # Thesis Submission
 
-The detailed checklist of forms and documents required for synopsis and
-thesis submission at TIFR and MU is available at the Academic Office.
-Please ensure you are using up-to-date forms. Studentship is necessary
-for submission of the thesis to TIFR or MU. Students are required to
-follow through with their Thesis Supervisor to ensure timely submission
-of all required documents. Submission after July 31 will require that
-the student coordinate with the Academic Office for payment of tuition
-fees.
+The detailed checklist of forms and documents required for synopsis and thesis
+submission at TIFR and MU is available at the Academic Office.  Please ensure
+you are using up-to-date forms. Studentship is necessary for submission of the
+thesis to TIFR or MU. Students are required to follow through with their Thesis
+Supervisor to ensure timely submission of all required documents. Submission
+after July 31 will require that the student coordinate with the Academic Office
+for payment of tuition fees.
 
 ## Internal approval for submission 
- When a student’s research is
-sufficiently mature, the TAC will assess the work based on a
-presentation and writeup by the student. This meeting should be held 6
-months before the expected date of thesis submission. The TAC must grant
+
+When a student’s research is sufficiently mature, the TAC will assess the work
+based on a presentation and writeup by the student. This meeting should be held
+6 months before the expected date of thesis submission. The TAC must grant
 approval for writing the thesis in a signed report.
 
 ## Synopsis and list of examiners 
- The student must submit a synopsis
-to the Academic Office between 6 months and one month prior to the
-submission of the thesis. The Thesis Supervisor must simultaneously
-submit a list of examiners with contact details. This information is
-confidential and not available to the student. For TIFR PhD, Int-PhD,
-and MSc-by-Research degrees, the list must include 6 examiners, with at
-least two from India and two from abroad, and none from within TIFR. For
-MU PhD degrees the list must include 10 examiners, of which at 5 must be
-from India and 5 from abroad, and none from within MU. For MU, for each
-examiner a brief CV and list of publications in the relevant field must
-be included. The thesis and synopsis must have the same title.
+
+The student must submit a synopsis to the Academic Office between 6 months and
+one month prior to the submission of the thesis. The Thesis Supervisor must
+simultaneously submit a list of examiners with contact details. This information
+is confidential and not available to the student. For TIFR PhD, Int-PhD, and
+MSc-by-Research degrees, the list must include 6 examiners, with at least two
+from India and two from abroad, and none from within TIFR. For MU PhD degrees
+the list must include 10 examiners, of which at 5 must be from India and 5 from
+abroad, and none from within MU. For MU, for each examiner a brief CV and list
+of publications in the relevant field must be included. The thesis and synopsis
+must have the same title.
 
 ## Publication requirements for synopsis submission 
- There is no
-publication requirement for an MSc-by-Research degree. For TIFR PhD and
-Int-PhD degrees, the student must have at least one first-author
-manuscript. For MU PhD degrees, the student must have two manuscripts,
-one of which is a first-author publication. The manuscript must
-encapsulate work included in the thesis, and be accepted for publication
-in a refereed journal of international repute. Conditional acceptances
-requiring revisions, do not meet the requirement.
+
+There is no publication requirement for an MSc-by-Research degree. For TIFR PhD
+and Int-PhD degrees, the student must have at least one first-author manuscript.
+For MU PhD degrees, the student must have two manuscripts, one of which is a
+first-author publication. The manuscript must encapsulate work included in the
+thesis, and be accepted for publication in a refereed journal of international
+repute. Conditional acceptances requiring revisions, do not meet the
+requirement.
 
 ## Use of figures in the thesis 
- Figures from published work, even from
-the student’s or Thesis Supervisor’s own publications, should be avoided
-unless there is compelling reason to include them. Any such figure, with
-or without modification, can only be used with permission from the
-copyright holders. The figure must be accompanied by a citation of the
-original source, and a statement that permission was obtained.
+
+Figures from published work, even from the student's or Thesis Supervisor's own
+publications, should be avoided unless there is compelling reason to include
+them. Any such figure, with or without modification, can only be used with
+permission from the copyright holders. The figure must be accompanied by a
+citation of the original source, and a statement that permission was obtained.
 
 ## Thesis defense 
- The thesis is assessed by the Thesis Supervisor and
-either one or two external examiners, for MSc and PhD degrees
-respectively. Subject to the recommendation of the examiners, the
-student will present the thesis in an open defense followed by a closed
-door session with the examination committee, which comprises one
-external examiner and the Thesis Supervisor. The committee must also
-include a member or representative of the Biology Board TIFR for NCBS
-students, or a representative of MU for inStem students. Inquiries about
-the status of reports and scheduling of the thesis defense may be
-directed to Head Academics. Please do not contact the University Cell of
-TIFR Mumbai or Manipal University directly. A checklist available at the
-Academic Office lists the sets of thesis copies and completed forms
-which must be submitted post the viva voce examination.
+
+The thesis is assessed by the Thesis Supervisor and either one or two external
+examiners, for MSc and PhD degrees respectively. Subject to the recommendation
+of the examiners, the student will present the thesis in an open defense
+followed by a closed door session with the examination committee, which
+comprises one external examiner and the Thesis Supervisor. The committee must
+also include a member or representative of the Biology Board TIFR for NCBS
+students, or a representative of MU for inStem students. Inquiries about the
+status of reports and scheduling of the thesis defense may be directed to Head
+Academics. Please do not contact the University Cell of TIFR Mumbai or Manipal
+University directly. A checklist available at the Academic Office lists the sets
+of thesis copies and completed forms which must be submitted post the viva voce
+examination.
 
 # Academic Integrity
 
-Studying and working on our campus requires the highest standards of
-honesty and academic integrity in research, as well as the highest moral
-and ethical standards of personal conduct. We expect every student to be
-dedicated toward the advancement of science by respecting the views of
-others and taking responsibility for their own actions. We therefore
-insist that you carefully read and strictly abide by these conduct
-guidelines. Failure to keep to these standards will have dire
-consequences, which could include expulsion from the programme.
+Studying and working on our campus requires the highest standards of honesty and
+academic integrity in research, as well as the highest moral and ethical
+standards of personal conduct. We expect every student to be dedicated toward
+the advancement of science by respecting the views of others and taking
+responsibility for their own actions. We therefore insist that you carefully
+read and strictly abide by these conduct guidelines. Failure to keep to these
+standards will have dire consequences, which could include expulsion from the
+programme.
 
 ## Investigation of misconduct 
- Allegations of academic misconduct must
-be brought to the notice of Head Academics. These allegations will be
-investigated by Campus Ethics Committees (CECs) consisting of members of
-the faculty of both NCBS and inStem. CECs can investigate all academic
-violations of the campus ethics policy, including cases of fraud,
-plagiarism, and cheating. The CECs must summarise the original
-complaints, establish the timeline of events, and list the parties
-involved; determine whether there was any violation of the campus ethics
-policy; inform the individual being investigated of their rights;
-provide the individual a chance to present their version of events; and
-recommend a penalty against the individual. The recommendation of the
-CEC will be forwarded to Head Academics for further action. The CEC
-report as well as the final action will be shared with the individual’s
-Thesis Supervisor as well as their TAC. The individual has the right to
-appeal. Such appeals must be made to the Director, who will consider the
-CEC report as well as soliciting input from Head Academics before
-reaching a final decision. There is no further appeal.
+
+Allegations of academic misconduct must be brought to the notice of Head
+Academics. These allegations will be investigated by Campus Ethics Committees
+(CECs) consisting of members of the faculty of both NCBS and inStem. CECs can
+investigate all academic violations of the campus ethics policy, including cases
+of fraud, plagiarism, and cheating. The CECs must summarise the original
+complaints, establish the timeline of events, and list the parties involved;
+determine whether there was any violation of the campus ethics policy; inform
+the individual being investigated of their rights; provide the individual a
+chance to present their version of events; and recommend a penalty against the
+individual. The recommendation of the CEC will be forwarded to Head Academics
+for further action. The CEC report as well as the final action will be shared
+with the individual’s Thesis Supervisor as well as their TAC. The individual
+has the right to appeal. Such appeals must be made to the Director, who will
+consider the CEC report as well as soliciting input from Head Academics
+before reaching a final decision. There is no further appeal.
 
 ## Maintenance of lab notebooks and records 
- Every student must
-maintain a carefully detailed laboratory notebook as a clear and
-accurate record of the procedures followed. Records of interim results
-obtained as well as of the final research outcomes must be documented.
-This is vital not only for proper research practice but also to avoid
-allegations of scientific misconduct if they were to arise, where
-original data cannot be found or allegedly lost. We thus insist that all
-students leaving a lab should return all relevant primary data. The lab
-will maintain all data pertaining to a publication for at least 5 years
-post publication. Pages may not be torn from a lab notebook. Records
-must allow complete reconstruction of your experiment and should
-include date and time of the experiment; rationale for the experiment;
-details of each step (volumes, number of animals, time of incubation,
-etc.); and raw data details on every experimental trial. Students are
-urged to utilize means of data storage appropriate to the task. Any act
-of manipulating, misreporting or misappropriating data will warrant
-serious action.
+
+Every student must maintain a carefully detailed laboratory notebook as a clear
+and accurate record of the procedures followed. Records of interim results
+obtained as well as of the final research outcomes must be documented.  This is
+vital not only for proper research practice but also to avoid allegations of
+scientific misconduct if they were to arise, where original data cannot be found
+or allegedly lost. We thus insist that all students leaving a lab should return
+all relevant primary data. The lab will maintain all data pertaining to a
+publication for at least 5 years post publication. Pages may not be torn from a
+lab notebook. Records must allow complete reconstruction of your experiment and
+should include date and time of the experiment; rationale for the experiment;
+details of each step (volumes, number of animals, time of incubation, etc.); and
+raw data details on every experimental trial. Students are urged to utilize
+means of data storage appropriate to the task. Any act of manipulating,
+misreporting or misappropriating data will warrant serious action.
 
 ## Plagiarism 
- Stealing words is unethical. All your writing must be
-done in your own words. It may seem tempting to copy a bit of text or a
-figure from the internet or some web page. This is just as much
-plagiarism as lifting it from your textbook. By the same token, taking a
-section and rewording it a little bit is also plagiarism. Plagiarism
-includes taking sentences from your previously published work since the
-rights to the words are copyrighted to the journal. We apply these rules
-about plagiarism to all scientific writing on this campus. Your project
-reports, assignments related to course work, exams, thesis proposals,
-presentations and your papers must all be original and without
-plagiarism. You should maintain integrity in experimental design,
-generating and analyzing data, applying for funding, publishing results,
-and acknowledging the direct and indirect contributions of colleagues
-and collaborators. Use of another person’s research data, materials or
-writing, deception in relation to research proposals, fraud and misuse
-of research funds, cheating in assignments and examinations will be
-considered serious violations of the Honour Code. Violations are, at
-minimum, grounds for automatic failure in a test, and if the plagiarism
-is serious it is grounds for dismissal.
+
+Stealing words is unethical. All your writing must be done in your own words. It
+may seem tempting to copy a bit of text or a figure from the internet or some
+web page. This is just as much plagiarism as lifting it from your textbook. By
+the same token, taking a section and rewording it a little bit is also
+plagiarism. Plagiarism includes taking sentences from your previously published
+work since the rights to the words are copyrighted to the journal. We apply
+these rules about plagiarism to all scientific writing on this campus. Your
+project reports, assignments related to course work, exams, thesis proposals,
+presentations and your papers must all be original and without plagiarism. You
+should maintain integrity in experimental design, generating and analyzing data,
+applying for funding, publishing results, and acknowledging the direct and
+indirect contributions of colleagues and collaborators. Use of another person’s
+research data, materials or writing, deception in relation to research
+proposals, fraud and misuse of research funds, cheating in assignments and
+examinations will be considered serious violations of the Honour Code.
+Violations are, at minimum, grounds for automatic failure in a test, and if the
+plagiarism is serious it is grounds for dismissal.
 
 ## How to cite others’ work 
- It is permissible in scientific writing to
-quote short sections of about one sentence, with attribution. It is also
-permissible in presentations and talks to display a small number of
-figures from electronic sources, again with attribution, provided such
-display is permitted by the source. When writing a paper it is never
-permissible to use figures from any previous paper without permission
-from the author and publisher, and without attribution. Use of published
-figures (with attribution) from your own laboratory or others, requires
-written permission. All students should refrain from plagiarism, piracy,
-the fabrication of results or infringement of intellectual property
-(IP). If you have a concern with the method of including or citing the
-work of others or if you have concerns on infringing IP, you may consult
-with your instructor for guidance. Students are advised to apprise
-themselves of journal policies when quoting from published work in their
-thesis. At the time of writing your thesis, ascertain if permissions to
-reproduce data from published manuscripts, even if your own, have to be
-obtained from the journal concerned.
+
+It is permissible in scientific writing to quote short sections of about one
+sentence, with attribution. It is also permissible in presentations and talks to
+display a small number of figures from electronic sources, again with
+attribution, provided such display is permitted by the source. When writing a
+paper it is never permissible to use figures from any previous paper without
+permission from the author and publisher, and without attribution. Use of
+published figures (with attribution) from your own laboratory or others,
+requires written permission. All students should refrain from plagiarism,
+piracy, the fabrication of results or infringement of intellectual property
+(IP). If you have a concern with the method of including or citing the work of
+others or if you have concerns on infringing IP, you may consult with your
+instructor for guidance. Students are advised to apprise themselves of journal
+policies when quoting from published work in their thesis. At the time of
+writing your thesis, ascertain if permissions to reproduce data from published
+manuscripts, even if your own, have to be obtained from the journal concerned.
 
 ## Use of institute names in publications and conferences 
- No student
-or student organization may use the NCBS or inStem name for any purpose,
-including identification, without written permission from the Director
-of institute. Students are encouraged to disseminate research
-achievements through conferences and presentations; however these have
-to be done with the consent of your PI, appropriate peer review, and
-institutional approval. Only those who have contributed to the research
-should be included as authors on the publication. You are expected to
-abide by your PI and your committee’s judgment where they feel that
-certain publication may be delayed for a reasonable period for
-protection of any intellectual property arising from the research.
+
+No student or student organization may use the NCBS or inStem name for any
+purpose, including identification, without written permission from the Director
+of institute. Students are encouraged to disseminate research achievements
+through conferences and presentations; however these have to be done with the
+consent of your PI, appropriate peer review, and institutional approval. Only
+those who have contributed to the research should be included as authors on the
+publication. You are expected to abide by your PI and your committee’s judgment
+where they feel that certain publication may be delayed for a reasonable period
+for protection of any intellectual property arising from the research.
 
 # Community Ethics
 
-We are committed to maintaining an environment for research, learning
-and teaching that is free from even the appearance of unlawful
-harassment or coercion. Improper behavior towards your colleagues,
-toward the staff, instructors, your fellow students or any other person
-within the premises will be considered an act of misconduct. We have a
-zero tolerance policy towards harassment such as physical abuse and
-assault, threats of violence, or other conduct that threatens the health
-or safety of any person. Should you observe any such unlawful act,
-please report it to your Thesis Supervisor or any member of the faculty
-including Head Academics, the Dean, or the Director. Consequences
+We are committed to maintaining an environment for research, learning and
+teaching that is free from even the appearance of unlawful harassment or
+coercion. Improper behavior towards your colleagues, toward the staff,
+instructors, your fellow students or any other person within the premises will
+be considered an act of misconduct. We have a zero tolerance policy towards
+harassment such as physical abuse and assault, threats of violence, or other
+conduct that threatens the health or safety of any person. Should you observe
+any such unlawful act, please report it to your Thesis Supervisor or any member
+of the faculty including Head Academics, the Dean, or the Director. Consequences
 arising from violations of these guidelines include dismissal.
 
 ## Sexual misconduct and harassment 
- Every person deserves the right to
-work without fear of prejudice or discrimination. Please ensure that you
-do not needlessly touch a person, use inappropriate language and
-comments or resort to anonymous messages or emails. It is important that
-you respect personal space. We are strongly opposed to sexual
-harassment, and such behavior is prohibited both by law and by our
-institute policy. Unwelcome sexual advances, requests for sexual favors,
-and other verbal or physical conduct of a sexual nature, will be
-interpreted as sexual harassment and will not be tolerated. In the
-interest of preventing sexual harassment, we respond to reports of any
-such conduct promptly and effectively and take appropriate action to
-prevent, to correct, and to discipline behavior that violates this
-policy. Harassment that is not sexual in nature but is based on gender
-such as sex-stereotyping or sexual orientation is equally unacceptable.
-As a member of the community, you are required to report any incident of
-sexual harassment involving any members of the community, including
-faculty, other academic appointees, staff, coaches, housekeeping staff,
-students, or non-employee participants in our programmes, such as
-vendors, contractors and visitors. Please be advised that our policy
-only covers unwelcome conduct of a sexual nature. Consensual romantic or
-sexual relationships between members of the community may not fall
-within the ambit of our policies, unless they may evolve into situations
-that lead to charges of sexual harassment.
+
+Every person deserves the right to work without fear of prejudice or
+discrimination. Please ensure that you do not needlessly touch a person, use
+inappropriate language and comments or resort to anonymous messages or emails.
+It is important that you respect personal space. We are strongly opposed to
+sexual harassment, and such behavior is prohibited both by law and by our
+institute policy. Unwelcome sexual advances, requests for sexual favors, and
+other verbal or physical conduct of a sexual nature, will be interpreted as
+sexual harassment and will not be tolerated. In the interest of preventing
+sexual harassment, we respond to reports of any such conduct promptly and
+effectively and take appropriate action to prevent, to correct, and to
+discipline behavior that violates this policy. Harassment that is not sexual in
+nature but is based on gender such as sex-stereotyping or sexual orientation is
+equally unacceptable.  As a member of the community, you are required to report
+any incident of sexual harassment involving any members of the community,
+including faculty, other academic appointees, staff, coaches, housekeeping
+staff, students, or non-employee participants in our programmes, such as
+vendors, contractors and visitors. Please be advised that our policy only covers
+unwelcome conduct of a sexual nature. Consensual romantic or sexual
+relationships between members of the community may not fall within the ambit of
+our policies, unless they may evolve into situations that lead to charges of
+sexual harassment.
 
 ## Professionalism 
- Be civil and give adequate respect to all your
-colleagues, instructors, support staff and other members on campus. Keep
-the premises clean and well-maintained. Being disorderly, violent, or
-insubordinate, use of impolite and vulgar language, and use of email or
-social media to transmit your animosity, is strictly prohibited.
+
+Be civil and give adequate respect to all your colleagues, instructors, support
+staff and other members on campus. Keep the premises clean and well-maintained.
+Being disorderly, violent, or insubordinate, use of impolite and vulgar
+language, and use of email or social media to transmit your animosity, is
+strictly prohibited.
 
 ## Where to go for help 
- Students may seek confidential help in dealing
-with anything viewed as possible misconduct or harassment by talking to
-any faculty member on campus who the student may feel is appropriate. A
-complaint may be filed with any member of the faculty, who will forward
-these to the Dean or Head Academics, who will themselves forward it to
-the appropriate committee. Complaints can also be filed with The Women’s
-Cell and Internal Complaints Committee (ICC) deals with issues related
-to sexual harassment, gender discrimination and professional misconduct
+
+Students may seek confidential help in dealing with anything viewed as possible
+misconduct or harassment by talking to any faculty member on campus who the
+student may feel is appropriate. A complaint may be filed with any member of the
+faculty, who will forward these to the Dean or Head Academics, who will
+themselves forward it to the appropriate committee. Complaints can also be filed
+with The Women’s Cell and Internal Complaints Committee (ICC) deals with issues
+related to sexual harassment, gender discrimination and professional misconduct
 at the workplace.
 
-- [Ethics Policy](www.ncbs.res.in/ethics) <https://ncbs.res.in/ethics>
-- [Harassment Policy](www.ncbs.res.in/sitefiles/CampusHarassmentPolicyDec2013.pdf) <https://ncbs.res.in/sitefiles/CampusHarassmentPolicyDec2013.pdf>
+- [Ethics Policy](https://www.ncbs.res.in/ethics) <https://ncbs.res.in/ethics>
+- [Harassment Policy](https://www.ncbs.res.in/sitefiles/CampusHarassmentPolicyDec2013.pdf) <https://ncbs.res.in/sitefiles/CampusHarassmentPolicyDec2013.pdf>
 - [Women’s Cell and ICC](https://www.ncbs.res.in/women%27s\_cell) <https://www.ncbs.res.in/women%27s\_cell> (broken link)
 
 # Laboratory Safety and Etiquette
@@ -1180,8 +1168,8 @@ for breakage in normal use. It is an abuse of trust to run away when it happens
 to you, and a violation of the Honour Code If it isn't fixed at once then
 you will spoil the work of others.
 
-- \MAILTO{Instrumentation}{ins@ncbs.res.in}
-- \MAILTO{Mr. P. C. Gautam}{pchandra@ncbs.res.in}
+- Instrumentation <ins@ncbs.res.in>
+- Mr. P. C. Gautam <pchandra@ncbs.res.in>
 
 ## Statutory Research Committees 
 
@@ -1190,7 +1178,7 @@ constituted to ensure the safety of the researchers and the research subjects,
 and the welfare of the environment. The committees oversee particular research
 areas such as recombinant DNA work, biohazard and radioactive work; research on
 animal and human subjects; and Stem cell work. Please contact the Dean’s Office
-(dean@ncbs.res.in) if you require any specific information about these
+(<dean@ncbs.res.in>) if you require any specific information about these
 committees.
 
 ## Institutional BioSafety committee (IBSC): 
@@ -1373,20 +1361,20 @@ campus, it will interfere with the campus wireless.
 ## Where to go for help 
 
 Report problems to the computer services staff by sending email to helpdesk. The
-computer services have staff on call from 8am to 8pm on weekdays, and until 5pm
-on Saturdays. If your machine is on fire you can phone 6420 as well, but this is
-only for crises, and you should anyway also log the complaint to helpdesk. For
-institute-wide problems like network outages, the reception has contact numbers
-for the System Administrators. Please report major outages to the reception desk
-at any time of day or night, any day of the week.
+computer services have staff on call from 0800 hrs to 2000 hrs on weekdays, and
+until 1700 hrs on Saturdays. If your machine is on fire you can phone 6420 as
+well, but this is only for crises, and you should anyway also log the complaint
+to helpdesk. For institute-wide problems like network outages, the reception has
+contact numbers for the System Administrators. Please report major outages to
+the reception desk at any time of day or night, any day of the week.
 
  ------------------------------ ----------------------
- Helpdesk                       helpdesk@ncbs.res.in
- System administrator           Prasanta Kumar Baruah (prasanta@ncbs.res.in)
- Computer Committee             Krushnamegh, Gaiti Hasan, Ramkumar, Shannon
+ Helpdesk                       <helpdesk@ncbs.res.in>
+ System administrator           Prasanta Kumar Baruah <prasanta@ncbs.res.in>
+ Computer Committee             Krushnamegh, Gaiti Hasan, Ramkumar, Shannon 
  ------------------------------ ---------------------------------------------
 
-# Helpdesk System
+# Helpdesk System {#helpdesk_system}
 
 For many campus services, you can ask for support through a computerized
 helpdesk system which keeps track of your requests and ensures they are
@@ -1556,11 +1544,9 @@ location.
 
 ## Where to go for help 
 
- ----------------------------------- -----------------------
- Library                             <library@ncbs.res.in>
- Librarian Avinash D. Chinchure      <avinashdc@ncbs.res.in>
- Assistant Librarian S. Umashashi    <uma@ncbs.res.in>
- ----------------------------------- ------------------------
+- Library <library@ncbs.res.in>
+- Librarian, Avinash D. Chinchure <avinashdc@ncbs.res.in>
+- Assistant Librarian, S. Umashashi <uma@ncbs.res.in>
 
 # Technical and Research Facilities
 
@@ -1570,7 +1556,7 @@ facilities are organised under the Centre for Cellular and Molecular
 Platforms (C-CAMP), which enables both campus and external users to
 access these resources. Up-to-date information about these facilities
 and contact details of facility managers will be available on the
-webpages of NCBS, inStem, and C-CAMP (www.ccamp.res.in). These include
+webpages of NCBS, inStem, and C-CAMP (<https://www.ccamp.res.in>). These include
 High Throughput Screening (assay development, assay screening); Central
 Imaging and Flow Facility (confocal, fluorescence, super-resolution,
 TEM, flow cytometry); Fly Facility (transgenics, screening,
@@ -1586,14 +1572,15 @@ managers if you wish to use any of these resources.
 
 # Student Entitlements
 
-**Salary disbursement**: The fellowship is paid on the last working day
-of the month and directly credited to the student’s bank account.
-Students who are funded by CSIR or other extramural fellowships are
-responsible for complying with all reporting requirements of their
-funding agencies. In case these grants have been sanctioned but the
-funds are delayed, NBCS or inStem can provide a salary as an advance, if
-sanctioned by Head Academics. Students are responsible for any unpaid
-balance against such advances, and must ensure that the extramural funds
+## Salary disbursement
+
+The fellowship is paid on the last working day of the month and directly
+credited to the student’s bank account.  Students who are funded by CSIR or
+other extramural fellowships are responsible for complying with all reporting
+requirements of their funding agencies. In case these grants have been
+sanctioned but the funds are delayed, NBCS or inStem can provide a salary as an
+advance, if sanctioned by Head Academics. Students are responsible for any
+unpaid balance against such advances, and must ensure that the extramural funds
 are credited back as soon as possible.
 
 ## Medical insurance 
@@ -1642,10 +1629,11 @@ pay is permitted for up to 8 days in a calendar year; earned leave can
 be taken for up to 30 days in a calendar year; maternity leave with pay
 is for up to 180 days.
 
-**Verifications and certificates**: If you need a bonafide certificate
-or residential proof certificate while applying for a passport, visa,
-bank account, etc., please contact NCBS Mr. Ashok Rao
-(ashok@ncbs.res.in) or INSTEM : headadm@instem.res.in.
+## Verifications and certificates 
+
+If you need a bonafide certificate or residential proof certificate while
+applying for a passport, visa, bank account, etc., please contact NCBS Mr. Ashok
+Rao <ashok@ncbs.res.in> or InStem <headadm@instem.res.in>.
 
 # Hostel Guidelines
 
@@ -1706,7 +1694,7 @@ return all hostel items and pay any dues necessary before reclaiming your
 deposit.
 
 ## Where to go for help 
-Mr. Shaju Varghese shaju@ncbs.res.in
+Mr. Shaju Varghese <shaju@ncbs.res.in>
 
 
 # Medical and Counselling Services
@@ -1738,7 +1726,7 @@ with a reference letter from the Campus Medical Officer.
 ## Counselling services 
 
 Counselling services on our campus are provided by an external service provider,
-Parivarthan (www.parivarthan.org). Any member of our campus can access this
+Parivarthan <https://www.parivarthan.org>. Any member of our campus can access this
 service confidentially. Please identify yourself as a member of campus by
 showing them your ID card. This is exclusively for the purpose of keeping track
 of the work from our campus and arranging to pay them. The names of those using
@@ -1746,20 +1734,28 @@ the service will not be made available to the campus institutions. To use this
 service, please contact Parivarthan directly using one of the following methods.
 
 **On site consultations** 
+
 A staff member from Parivarthan offers campus consultations twice a week (Tue
-1030am – 130pm, Thu 200pm – 500pm); please make an appointment by contacting the
-counsellor B. N Veena (<bnveena@yahoo.com>).  
+1030 hrs – 1330 hrs, Thu 1400 hrs – 1700 hrs); please make an appointment by
+contacting the counsellor B. N Veena <bnveena@yahoo.com>.
 
 **Telephone consultations** 
-Parivarthan offers a telephone counselling helpline for those
-who are unable to come in for face-to-face sessions; helpline counsellors are
-trained to deal with a variety of issues ranging from stress and normal life
-issues to trauma and mental illness (call 6533 3323, email
-ychelpline@gmail.com).  Consultations at the Parivarthan offices (Mon – Fri, 4pm
-– 10pm), 1st Floor, \#3310, 8th Cross, 13th Main, HAL 2nd Stage, Bangalore 560
-008; call 2527 3462 or 25298686; email <parivarthanblr@gmail.com>. A guide on
-what to expect from a counselling service is provided at
-<https://intranet.ncbs.res.in/files/NCBS-Parivarthan>.
+
+Parivarthan offers a telephone counselling helpline for those who are unable to
+come in for face-to-face sessions; helpline counsellors are trained to deal with
+a variety of issues ranging from stress and normal life issues to trauma and
+mental illness (Phone: 6533 3323, email <ychelpline@gmail.com>). 
+
+Consultations at the Parivarthan offices (Mon – Fri, 1600 hrs – 2200 hrs)
+
+> 1st Floor, #3310, 8th Cross
+> 13th Main, HAL 2nd Stage
+> Bangalore 560 008
+> Phone: 2527 3462 or 25298686;
+> Email <parivarthanblr@gmail.com>
+    
+A guide on what to expect from a counselling
+service is provided at <https://intranet.ncbs.res.in/files/NCBS-Parivarthan>.
 
 ## Where to go for help 
 
@@ -1768,7 +1764,7 @@ available on the intranet. For operational details relating to the
 medical centres (not your own medical issues) please email the
 coordinator at <medical@ncbs.res.in>. For any assistance or clarification
 relating to medical insurance, interaction with hospitals etc. please
-contact the Establishment Section x6335, <adminhelp@ncbs.res.in>.
+contact the Establishment Section Ext: 6335, <adminhelp@ncbs.res.in>.
 
 
 # Sports Complex
@@ -1803,17 +1799,17 @@ it will be reissued for a fee.
 
 ## Canteen 
 
-The main canteen is open for,
-
-- Breakfast (715am to 920am)
-- Tea (10am to noon)
-- Lunch (1245pm to 145pm)
-- Snacks (3pm to 6pm)
-- Dinner (715pm to 830pm)
-
-There is no canteen service after lunch on Sundays. Lunch is also served in the
+ -------------- ----------------
+ **Breakfast**  0715 - 0920 hrs 
+ **Tea**        1000 - 1130 hrs
+ **Lunch**      1245 - 1345 hrs
+ **Snacks**     1500 - 1800 hrs 
+ **Dinner**     1915 - 2030 hrs
+ -------------- ----------------
+ 
+*There is no canteen service after lunch on Sundays*. Lunch is also served in the
 outdoor canteen at the main entrance. Terrace cafeterias on the first floor of
-the Eastern Labs and second floor of the Administrative Block 10am – 6pm,
+the Eastern Labs and second floor of the Administrative Block 1000 – 1800 Hrs,
 serving beverages, snacks and packed lunches. A fast food counter operates on
 the first floor of the main canteen.
 
@@ -1824,9 +1820,10 @@ available free of cost to students and members of the community. Schedules are
 posted on the NCBS website and available at the reception.
 
 ## Bank 
- The Central Bank of India operates an extension counter at
-NCBS on Mondays, Wednesdays and Fridays between noon and 2pm. An ATM is
-available next to the gate.
+
+The Central Bank of India operates an extension counter at NCBS on Mondays,
+Wednesdays and Fridays between noon and 1400 hrs. An ATM is available next to the
+gate.
 
 ## Child care 
  The Dolna creche is open to babies older than four
