@@ -1,7 +1,8 @@
+PANDOC=pandoc --latex-engine=lualatex 
 all : ./student_handbook.pdf ./student_handbook.epub ./student_handbook_with_cover.pdf
 	
 student_handbook.pdf : student_handbook.md 
-	pandoc -fmarkdown+line_blocks --template ./default.latex $< -o $@
+	$(PANDOC) --template ./default.latex $< -o $@
 
 student_handbook_with_cover.pdf : ./front_page.pdf ./student_handbook.pdf 
 	# convert -density 300x300 -quality 100 $? $@
@@ -9,7 +10,7 @@ student_handbook_with_cover.pdf : ./front_page.pdf ./student_handbook.pdf
 	    -sOutputFile=$@ $+
 
 student_handbook.epub : student_handbook.md 
-	pandoc -fmarkdown+line_blocks $< -o $@
+	$(PANDOC) $< -o $@
 
 %.pdf : %.tex
 	pdflatex --shell-escape $<

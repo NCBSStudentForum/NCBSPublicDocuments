@@ -4,11 +4,13 @@ date : \today
 header-includes :
     - \usepackage[top=3cm, bottom=3cm, left=3cm, right=3cm]{geometry}
     - \usepackage[misc]{ifsym}
-    - \usepackage[]{ebgaramond}
+    - \usepackage{ebgaramond}
+    - \usepackage{ebgaramond-maths}
     - \usepackage{fancyhdr}
     - \pagestyle{fancy}
     - \usepackage{standalone}
 ---
+
 
 # HONOUR CODE
 Our community operates on a principle of trust. Most research materials
