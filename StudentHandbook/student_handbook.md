@@ -2,9 +2,9 @@
 author : NCBS Bangalore
 date : \today 
 header-includes :
-    - \usepackage[top=3cm, bottom=3cm, left=3cm, right=4cm]{geometry}
+    - \usepackage[top=3cm, bottom=3cm, left=3cm, right=3cm]{geometry}
     - \usepackage[misc]{ifsym}
-    - \usepackage[sfdefault,light]{FiraSans}
+    - \usepackage[]{ebgaramond}
     - \usepackage{fancyhdr}
     - \pagestyle{fancy}
     - \usepackage{standalone}
