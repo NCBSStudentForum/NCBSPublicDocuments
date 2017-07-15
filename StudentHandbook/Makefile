@@ -1,10 +1,14 @@
-CALS:=calendar_intphd.svg ./calendar_msc.svg ./calendar_phd.svg ./title.pdf
-all : ./student_handbook.pdf ./student_handbook.epub
+all : ./student_handbook.pdf ./student_handbook.epub ./student_handbook_title.pdf
 	
-student_handbook.pdf : student_handbook.md $(CALS)
+student_handbook.pdf : student_handbook.md 
 	pandoc -fmarkdown+line_blocks --template ./default.latex $< -o $@
 
-student_handbook.epub : student_handbook.md $(CALS)
+student_handbook_title.pdf : ./title.pdf ./student_handbook.pdf 
+	# convert -density 300x300 -quality 100 $? $@
+	gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress \
+	    -sOutputFile=$@ $+
+
+student_handbook.epub : student_handbook.md 
 	pandoc -fmarkdown+line_blocks $< -o $@
 
 %.pdf : %.tex

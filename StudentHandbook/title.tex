@@ -7,21 +7,24 @@
 \begin{document}
 \thispagestyle{empty}
 
-\begin{minipage}{0.4\textwidth}
-    \hfill
-\end{minipage} %
-\begin{minipage}{0.6\textwidth}
-    {\fontsize{1cm}{1.5cm}\selectfont Student Handbook}
+\begin{tikzpicture}[remember picture,overlay, scale=1 , every node/.style={} ]
 
-    \vspace{2mm}
-    {\raggedleft \Large NCBS Bangalore}
+    \node[opacity=0.9,inner sep=0pt] (background) at (current page.center)
+    {
+        \includegraphics[
+            %width=\paperwidth,
+            height=\paperheight]{./images/background_evening.jpg}
+    };
 
-    \vspace{15cm} The purpose of this handbook is to outline the
-    procedures for students to receive a degree. This handbook will be updated
-    annually in August.  Any major changes made prior to that time will be
-    posted to our website with notification to all graduate students by email.
-    The information in this handbook should be viewed as guidelines and are
-subject to change depending on the policies of the Institutes.  \end{minipage}
+    \node[text width=0.5\paperwidth] (title) at (0.5\paperwidth,0) { 
+        {\fontsize{1cm}{1.5cm}\selectfont Student Handbook}
+    };
+
+    \node[text width=0.5\paperwidth, below=of title ] (ncbs) {
+        {\raggedleft \Large NCBS Bangalore}
+    };
+
+\end{tikzpicture}    
 
 
 \end{document}
