@@ -7,7 +7,8 @@
 \begin{document}
 \thispagestyle{empty}
 
-\begin{tikzpicture}[remember picture,overlay, scale=1 , every node/.style={} ]
+\begin{tikzpicture}[remember picture,overlay, scale=1
+    , every node/.style={node distance=1mm} ]
 
     \node[opacity=0.9,inner sep=0pt] (background) at (current page.center)
     {
@@ -16,12 +17,18 @@
             height=\paperheight]{./images/background_evening.jpg}
     };
 
-    \node[text width=0.5\paperwidth] (title) at (0.5\paperwidth,0) { 
-        {\fontsize{1cm}{1.5cm}\selectfont Student Handbook}
+    \node[text width=0.6\paperwidth] (title) at (0.45\paperwidth,0) { 
+        {\fontsize{1cm}{1.5cm}\selectfont \hfill Student Handbook - 2017}
     };
 
-    \node[text width=0.5\paperwidth, below=of title ] (ncbs) {
-        {\raggedleft \Large NCBS Bangalore}
+    \node[text width=0.6\paperwidth, below=of title ] (ncbs) {
+        {\raggedleft \hfill \Large NCBS Bangalore}
+    };
+    
+    % credit
+    \node[inner sep=2pt,yshift=2mm,xshift=3cm] (credit) at (current page.south west)
+    {
+        \small \tt Image credit : XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
     };
 
 \end{tikzpicture}    
