@@ -1,9 +1,9 @@
-all : ./student_handbook.pdf ./student_handbook.epub ./student_handbook_title.pdf
+all : ./student_handbook.pdf ./student_handbook.epub ./student_handbook_with_cover.pdf
 	
 student_handbook.pdf : student_handbook.md 
 	pandoc -fmarkdown+line_blocks --template ./default.latex $< -o $@
 
-student_handbook_title.pdf : ./title.pdf ./student_handbook.pdf 
+student_handbook_with_cover.pdf : ./front_page.pdf ./student_handbook.pdf 
 	# convert -density 300x300 -quality 100 $? $@
 	gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress \
 	    -sOutputFile=$@ $+
