@@ -14,15 +14,17 @@
     {
         \includegraphics[
             %width=\paperwidth,
-            height=\paperheight]{./images/background_low_res.jpg}
+            %height=\paperheight]{./images/background_low_res.jpg}
+            height=\paperheight]{./images/background_low_res_cricket.jpg}
     };
 
+    \edef\cl{white}
     \node[text width=0.6\paperwidth] (title) at (0.45\paperwidth,0) { 
-        {\fontsize{1cm}{1.5cm}\selectfont \hfill Student Handbook}
+        \textcolor{\cl}{\fontsize{1.5cm}{2cm}\selectfont \hfill Student Handbook}
     };
 
     \node[text width=0.6\paperwidth, below=of title ] (ncbs) {
-        {\raggedleft \hfill \Large 2017}
+        \textcolor{\cl}{\raggedleft \hfill \Huge 2017}
     };
 
     % Logos
