@@ -3,7 +3,6 @@ author : NCBS Bangalore
 date : \today 
 header-includes :
     - \usepackage[top=3cm, bottom=3cm, left=3cm, right=3cm]{geometry}
-    - \usepackage[misc]{ifsym}
     - \usepackage{ebgaramond}
     - \usepackage{ebgaramond-maths}
     - \usepackage{fancyhdr}
@@ -1065,9 +1064,9 @@ with The Women’s Cell and Internal Complaints Committee (ICC) deals with issue
 related to sexual harassment, gender discrimination and professional misconduct
 at the workplace.
 
-- [Ethics Policy](https://www.ncbs.res.in/ethics) <https://ncbs.res.in/ethics>
-- [Harassment Policy](https://www.ncbs.res.in/sitefiles/CampusHarassmentPolicyDec2013.pdf) <https://ncbs.res.in/sitefiles/CampusHarassmentPolicyDec2013.pdf>
-- [Women’s Cell and ICC](https://www.ncbs.res.in/women%27s\_cell) <https://www.ncbs.res.in/women%27s\_cell> (broken link)
+- Ethics Policy <https://ncbs.res.in/ethics>
+- Harassment Policy <https://ncbs.res.in/sitefiles/CampusHarassmentPolicyDec2013.pdf>
+- Women’s Cell and ICC <https://www.ncbs.res.in/women's_cell> 
 
 # Laboratory Safety and Etiquette
 

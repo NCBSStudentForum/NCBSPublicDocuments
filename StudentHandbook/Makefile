@@ -1,4 +1,4 @@
-PANDOC=pandoc --latex-engine=lualatex 
+PANDOC=pandoc --latex-engine=pdflatex 
 all : ./student_handbook.pdf ./student_handbook.epub ./student_handbook_with_cover.pdf
 	
 student_handbook.pdf : student_handbook.md 

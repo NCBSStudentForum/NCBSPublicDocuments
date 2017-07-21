@@ -19,8 +19,8 @@
     };
 
     \edef\cl{white}
-    \node[text width=0.6\paperwidth] (title) at (0.45\paperwidth,0) { 
-        \textcolor{\cl}{\fontsize{1.5cm}{2cm}\selectfont \hfill Student Handbook}
+    \node[text width=0.6\paperwidth] (title) at (0.45\paperwidth,1cm) { 
+        \textcolor{\cl}{\fontsize{1.5cm}{2cm}\selectfont Student Handbook}
     };
 
     \node[text width=0.6\paperwidth, below=of title ] (ncbs) {
@@ -29,16 +29,16 @@
 
     % Logos
     \node[] (ncbs) at (0.55\paperwidth,-0.8\paperheight) { 
-        \includegraphics[height=2cm]{../Logos/ncbs_logo.png}
+        \includegraphics[height=2.5cm]{../Logos/ncbs_logo.png}
     };
     \node[] (ncbs) at (0.05\paperwidth,-0.8\paperheight) { 
-        \includegraphics[height=2cm]{../Logos/inStem_logo.png}
+        \includegraphics[height=2.5cm]{../Logos/inStem_logo.png}
     };
     
     % credit
-    \node[inner sep=2pt,yshift=2mm,xshift=3cm] (credit) 
+    \node[inner sep=2pt,yshift=2mm,xshift=2cm] (credit) 
         at (current page.south west) {
-            \small \tt Image credit : Unknown
+            \textcolor{green}{\tiny \tt Photo credit: Venkat Srinivasan}
         };
 
 \end{tikzpicture}    
