@@ -3,13 +3,8 @@ author : NCBS Bangalore
 date : \today 
 header-includes :
     - \usepackage[top=3cm, bottom=3cm, left=3cm, right=3cm]{geometry}
-    - \usepackage{ebgaramond}
-    - \usepackage{ebgaramond-maths}
-    - \usepackage{fancyhdr}
-    - \pagestyle{fancy}
-    - \usepackage{standalone}
+    - \usepackage[book,sfdefault]{FiraSans}
 ---
-
 
 # HONOUR CODE
 Our community operates on a principle of trust. Most research materials
@@ -39,8 +34,10 @@ It is the student’s responsibility to ensure they meet all requirements
 and deadlines. **Academic years (Aug to July) are abbreviated Y1, Y2, etc.**
 
 ## PhD Calendar {#phd_calendar}
+
+\rowcolors{3}{}{lightgray}
    
- **Timeline**         |**Event**                 | Notes 
+ **Timeline**         |**Event**                 | **Notes**
  :--------------------|:-------------------------|:------------------------------
   Y1 Aug              | Orientation              | Visit to labs and facilities
   Y1 (Sep-Dec)        | Rotations                | 2 rotations [^1] 
@@ -57,7 +54,9 @@ and deadlines. **Academic years (Aug to July) are abbreviated Y1, Y2, etc.**
 
 ## IntPhD Calendar {#intphd_calendar}
    
-  **Timeline**        | **Event**                | Notes 
+\rowcolors{3}{}{lightgray}
+
+  **Timeline**        | **Event**                | **Notes**
  :--------------------|:-------------------------|:------------------------------
   Y1 Aug              | Orientation              | Visit to labs and facilities
   Y1 (Sep-Feb)        | Rotations                | 3 rotations.
@@ -72,6 +71,8 @@ and deadlines. **Academic years (Aug to July) are abbreviated Y1, Y2, etc.**
   *Y7 (Jan-Jul)*      | Synposis and thesis submission | Students on extension 
 
 ## MSc Calendar {#msc_calendar}
+
+\rowcolors{3}{}{lightgray}
 
   **Timeline**        | **Event**                | **Notes**
  :--------------------|:-------------------------|:------------------------------
@@ -89,6 +90,8 @@ and deadlines. **Academic years (Aug to July) are abbreviated Y1, Y2, etc.**
 \small
 
 ## Non-academic services
+
+\rowcolors{3}{}{lightgray}
 
   **Service**            | **Supervisor**                       |    **Notes**
   :----------------------|:-------------------------------------|:---------------------
@@ -127,7 +130,10 @@ Head Admin <headadmin@ncbs.res.in>.
 \pagebreak
 \normalsize
 
-\tableofcontents
+\begin{multicols}{2}
+    \tableofcontents
+\end{multicols}
+\newpage
 
 # Programmes of study
 
@@ -362,6 +368,8 @@ the first extension but will lose priority for allotment of a single room.
 
 ## Credit Requirements 
 
+\rowcolors{3}{}{lightgray}
+
  **Category**         | **PhD** | **IntPhD**
  :--------------------|:--------|:--------
  Coursework           |  16     |  22   
@@ -429,6 +437,8 @@ Formal approval from the TAC is necessary to start writing a thesis. There are
 no extensions in the MSc Programme.
 
 ## Credit requirements 
+\rowcolors{1}{}{lightgray}
+
   --------------------- ----
   Coursework              12
   Laboratory Rotations    24
@@ -554,6 +564,8 @@ field trips.
 
 ## Credit requirements 
 
+\rowcolors{1}{}{lightgray}
+
   --------------------- ----
   Coursework (min)      50
   Thesis                10
@@ -608,6 +620,8 @@ be available one semester in advance.
 ## Grades 
 
 We follow a letter grading system based on final course marks.
+
+\rowcolors{3}{}{lightgray}
 
   **Letter Grade** | **Marks**
   -----------------|------
@@ -666,6 +680,7 @@ mandatory for all students.
 
 ## Coursework credit requirements 
 
+\rowcolors{1}{}{}
 
  PhD at TIFR | Int-PhD at TIFR | MSc at TIFR | PhD at MU
  ------------|-----------------|-------------|----------
@@ -744,6 +759,8 @@ interact directly with TIFR or MU. Requests for extensions should be submitted
 by the Thesis Supervisor to Head Academics a minimum of 6 months prior to the
 deadline. The request has to be discussed with the student and approved by the
 TAC.
+
+\rowcolors{1}{}{lightgray}
 
  ---------------  -----------------
  PhD              June 30, Y2 
@@ -1261,26 +1278,26 @@ inStem-owned software; open source software; special-purpose printing.
 Use resources effectively for academic purposes, and protect the interests of
 all users through good etiquette and good security.
 
-- Do not violate privacy. Please do not read any files belonging to other
+- **Do not violate privacy**. Please do not read any files belonging to other
   people, or look at their screen while they are working or reading email.
   Common PCs have no security mechanism to prevent people from reading each
   other's files; this does not amount to permission to read such files.
-- Don't spam, i.e., do not send unnecessary email to a large set of people who
+- **Don't spam** i.e., do not send unnecessary email to a large set of people who
   are not interested in your message. Be particularly conservative in your use
   of the aliases 'all', 'student' and 'faculty'. Repeated misuse is grounds for
   account blockage.
-- Don’t reply to ‘all’. A common mistake is to reply to all recipients of a
+- **Don’t reply to ‘all’**. A common mistake is to reply to all recipients of a
   mail, which may include everybody on campus. When a mail is sent to a mailing
   list and you feel you must reply, please do not click the ‘reply-to-all’
   option.
-- Don’t get personal. Even if you are raising an issue of concern to many, don't
+- **Don’t get personal**. Even if you are raising an issue of concern to many, don't
   target individuals in a message sent to a mailing list. If there are specific
   individuals involved in some contentious issue, it is better to email them or
   meet them personally to solve the issue.
-- Don't flame, that is, do not write emails when you are angry. Especially do
+- **Don't flame**, that is, do not write emails when you are angry. Especially do
   not send angry mails to a lot of people or a mailing list when you are angry.
   You will regret it. Email is a poor substitute for personal discussions.
-- Do not waste bandwidth. Bandwidth is costly and is needed for journal
+- **Do not waste bandwidth**. Bandwidth is costly and is needed for journal
   downloads, database access, and other academic requirements. We have a limited
   data rate, and it is meant specifically for academic work.  Emails usually use
   far less bandwidth than anything else. Avoid large attachments. It is a misuse
@@ -1293,7 +1310,7 @@ all users through good etiquette and good security.
 - Don't waste printer paper. If you have a lot of data to examine, it is better
   left on the computer and viewed on the screen. Don’t print out papers to look
   at if you only plan to give them a brief glance do this on screen instead.
-- Do not view any offensive material. Porn does not belong in the workspace.
+- **Do not view any offensive material**. Porn does not belong in the workspace.
 
 ## Backups 
 

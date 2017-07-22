@@ -8,9 +8,8 @@
     \def\pgfsysdriver{pgfsys-tex4ht.def}
 }
 \makeatother
-\usepackage{pgfplots}
-\usepackage{pgfplotstable}
 \usepackage[multidot]{grffile}
+\usepackage[table]{xcolor}
 
 %% Include newcommands.
 \IfFileExists{tex_newcommands.tex}{
@@ -185,7 +184,14 @@ $for(header-includes)$
 $header-includes$
 $endfor$
 
+\usepackage{fancyhdr}
+\usepackage{standalone}
+\pagestyle{fancy}
+\usepackage{multicol}
+\definecolor{lightgray}{gray}{0.9}
+
 \begin{document}
+
 $if(title)$
 \maketitle
 $endif$
